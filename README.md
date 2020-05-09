@@ -1,0 +1,1 @@
+# magyarch-spectrwm
