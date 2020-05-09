@@ -1,0 +1,4 @@
+#! /bin/bash
+
+kill -9 $(ps aux | grep  " -e calcurse"  | gawk  '{print $2}' | sed -n 1p)
+exit 1

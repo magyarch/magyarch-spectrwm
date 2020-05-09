@@ -1,0 +1,9 @@
+#!/bin/sh
+
+DIR="/home/$USER/Képek/"
+
+WAL="$(ls $DIR/*.jpg | shuf -n1)"
+
+cat $WAL > ~/.config/wallpaper.png
+
+feh --bg-scale ~/.config/wallpaper.png

@@ -1,0 +1,1493 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/xeoncpu/
+	..
+1588989957
+'a
+	/home/xeoncpu
+	Music
+1577726319
+'b
+	/home/xeoncpu/bin/
+	..
+1588989957
+'h
+	/home/xeoncpu/
+	..
+1588989957
+'z
+	/home/xeoncpu/.config/vifm
+	..
+1588989957
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/usr
+	share
+9
+d/usr/share
+	backgrounds
+13
+d/usr/share/backgrounds
+	magyarch
+1
+d/usr/share/backgrounds/magyarch
+	wallpaper.png
+1
+d/usr/share/backgrounds
+	magyarch
+1
+d/usr/share
+	backgrounds
+13
+d/usr
+	share
+9
+d/
+	home
+4
+d/home
+	xeoncpu
+1
+d/home/xeoncpu
+	.config
+2
+d/home/xeoncpu/.config
+	wallpaper.png
+23
+d/home/xeoncpu
+	Letöltések
+4
+d/home/xeoncpu/Letöltések
+	Magyarch-bspwm(1).pdf
+1
+d/home/xeoncpu
+	Letöltések
+4
+d/home/xeoncpu/Letöltések
+	baraction.sh
+2
+d/home/xeoncpu
+	Letöltések
+13
+d/home/xeoncpu/Letöltések
+	baz-bspwm
+1
+d/home/xeoncpu/Letöltések/baz-bspwm
+	.local
+4
+d/home/xeoncpu/Letöltések/baz-bspwm/.local
+	share
+2
+d/home/xeoncpu/Letöltések/baz-bspwm/.local/share
+	applications
+1
+d/home/xeoncpu/Letöltések/baz-bspwm/.local
+	share
+2
+d/home/xeoncpu/Letöltések/baz-bspwm
+	.local
+4
+d/home/xeoncpu/Letöltések
+	baz-bspwm
+1
+d/home/xeoncpu/Letöltések/baz-bspwm
+	.local
+4
+d/home/xeoncpu/Letöltések/baz-bspwm/.local
+	share
+2
+d/home/xeoncpu/Letöltések/baz-bspwm/.local/share
+	Magyarch-bspwm.pdf
+2
+
+# Right window history (oldest to newest):
+D/home/xeoncpu/Videók
+	The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES
+2
+D/home/xeoncpu/.config/vifm
+	colors
+1
+D/home/xeoncpu/.config/vifm/colors
+	luke.vifm
+1
+D/home/xeoncpu/Letöltések
+	installer
+11
+D/home/xeoncpu/.themes
+	MagyArch-dark
+1
+D/home/xeoncpu
+	.local
+4
+D/home/xeoncpu/.local
+	bin
+1
+D/home/xeoncpu
+	.config
+2
+D/home/xeoncpu/.config
+	wallpaper.png
+20
+D/home/xeoncpu
+	..
+0
+
+# Command line history (oldest to newest):
+:mkdir Videos 
+:mkdir spotify
+:mkdir scripts
+:mkdir scrot
+:mkdir Pictures
+:colorscheme molokai
+:colorscheme matrix
+:colorscheme palenight
+:colorscheme onedark
+:colorscheme semidarkdesert
+:colorscheme reicheltd
+:colorscheme reicheltd-light
+:colorscheme snowhite
+:colorscheme snowwhite
+:colorscheme solarized-dark
+:colorscheme g80
+:colorscheme iceberg
+:colorscheme gruvbox
+:collorscheme ph
+:colorscheme ph
+:colorscheme default
+:colorscheme astrell
+:colorscheme Default
+:mkdir spectrwm
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+pwallpapers
+pwallpaper
+pThe.Cranberries-Beneath.the.Skin.Live.in.Paris.v2.mkv
+pThe.Cranberries-Beneath.the.Skin.Live.in.Paris.mkv
+pxmonad2.hs
+ppowermenu.txt
+ppowermenu
+pedconf.sh
+pspotify_rules
+pDunst_gui_v2.1_by_KuLuSz
+pthe.peanut.butter.falcon.2019.bdrip.x264-drones.srt
+pHoney.Boy.2019.REPACK.720p.AMZN.WEB-DL.DDP5.1.H.264-TEPES.srt
+pMagyArch-official-wall.png
+p.Xresourcesd
+p.Xresources
+p.spectrwm.conf
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/xeoncpu/Letöltések/Magyarch-bspwm.pdf
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/xeoncpu/.local/share/vifm/Trash/000_video-191125-2154-08.mkv
+	/home/xeoncpu/video-191125-2154-08.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191125-1740-01.png
+	/home/xeoncpu/pic-full-191125-1740-01.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191125-1842-05.png
+	/home/xeoncpu/pic-full-191125-1842-05.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191125-2021-16.png
+	/home/xeoncpu/pic-full-191125-2021-16.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191125-2147-20.png
+	/home/xeoncpu/pic-full-191125-2147-20.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191125-2147-34.png
+	/home/xeoncpu/pic-full-191125-2147-34.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_ArcoLinuxB-Out
+	/home/xeoncpu/ArcoLinuxB-Out
+t/home/xeoncpu/.local/share/vifm/Trash/000_arco-plasma
+	/home/xeoncpu/arco-plasma
+t/home/xeoncpu/.local/share/vifm/Trash/000_Szornyen Boldog Halloween 2019 WEBDL HUN.mp4
+	/home/xeoncpu/Letöltések/Szornyen Boldog Halloween 2019 WEBDL HUN.mp4
+t/home/xeoncpu/.local/share/vifm/Trash/000_mpv-shot0001.jpg
+	/home/xeoncpu/Letöltések/mpv-shot0001.jpg
+t/home/xeoncpu/.local/share/vifm/Trash/000_mpv-shot0002.jpg
+	/home/xeoncpu/Letöltések/mpv-shot0002.jpg
+t/home/xeoncpu/.local/share/vifm/Trash/000_.xprofile
+	/home/xeoncpu/Letöltések/baz-voidrice/.local/.xprofile
+t/home/xeoncpu/.local/share/vifm/Trash/000_000_ArcoLinuxB-Out
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/vifm/Trash/000_ArcoLinuxB-Out
+t/home/xeoncpu/.local/share/vifm/Trash/000_000_arco-plasma
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/vifm/Trash/000_arco-plasma
+t/home/xeoncpu/.local/share/vifm/Trash/000_000_.xprofile
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/vifm/Trash/000_.xprofile
+t/home/xeoncpu/.local/share/vifm/Trash/000_000_Szornyen Boldog Halloween 2019 WEBDL HUN.mp4
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/vifm/Trash/000_Szornyen Boldog Halloween 2019 WEBDL HUN.mp4
+t/home/xeoncpu/.local/share/vifm/Trash/000_000_mpv-shot0001.jpg
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/vifm/Trash/000_mpv-shot0001.jpg
+t/home/xeoncpu/.local/share/vifm/Trash/000_000_mpv-shot0002.jpg
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/vifm/Trash/000_mpv-shot0002.jpg
+t/home/xeoncpu/.local/share/vifm/Trash/000_000_pic-full-191125-1740-01.png
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/vifm/Trash/000_pic-full-191125-1740-01.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_000_pic-full-191125-1842-05.png
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/vifm/Trash/000_pic-full-191125-1842-05.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_000_pic-full-191125-2021-16.png
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/vifm/Trash/000_pic-full-191125-2021-16.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_000_pic-full-191125-2147-20.png
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/vifm/Trash/000_pic-full-191125-2147-20.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_000_pic-full-191125-2147-34.png
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/vifm/Trash/000_pic-full-191125-2147-34.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_000_video-191125-2154-08.mkv
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/vifm/Trash/000_video-191125-2154-08.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_TelegramDesktop
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/TelegramDesktop
+t/home/xeoncpu/.local/share/vifm/Trash/000_neofetch
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/neofetch
+t/home/xeoncpu/.local/share/vifm/Trash/000_config
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/config
+t/home/xeoncpu/.local/share/vifm/Trash/000_launch.sh
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/launch.sh
+t/home/xeoncpu/.local/share/vifm/Trash/000_recently-used.xbel
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/recently-used.xbel
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191127-0452-58.png
+	/home/xeoncpu/pic-full-191127-0452-58.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191127-0453-22.png
+	/home/xeoncpu/pic-full-191127-0453-22.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191127-0629-47.png
+	/home/xeoncpu/pic-full-191127-0629-47.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_dwmbar
+	/home/xeoncpu/.config/dwmbar/dwmbar
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191127-0638-05.png
+	/home/xeoncpu/pic-full-191127-0638-05.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191127-0645-01.png
+	/home/xeoncpu/pic-full-191127-0645-01.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191127-1319-40.png
+	/home/xeoncpu/pic-full-191127-1319-40.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_weather
+	/home/xeoncpu/.local/share/weather
+t/home/xeoncpu/.local/share/vifm/Trash/000_weatherreport
+	/home/xeoncpu/.local/share/weatherreport
+t/home/xeoncpu/.local/share/vifm/Trash/000_dwm
+	/home/xeoncpu/Letöltések/dwm
+t/home/xeoncpu/.local/share/vifm/Trash/001_TelegramDesktop
+	/home/xeoncpu/Letöltések/dwm/.local/share/TelegramDesktop
+t/home/xeoncpu/.local/share/vifm/Trash/000_meld
+	/home/xeoncpu/Letöltések/dwm/.local/share/meld
+t/home/xeoncpu/.local/share/vifm/Trash/000_nvim
+	/home/xeoncpu/Letöltések/dwm/.local/share/nvim
+t/home/xeoncpu/.local/share/vifm/Trash/000_plexmediaplayer
+	/home/xeoncpu/Letöltések/dwm/.local/share/plexmediaplayer
+t/home/xeoncpu/.local/share/vifm/Trash/000_vifm
+	/home/xeoncpu/Letöltések/dwm/.local/share/vifm
+t/home/xeoncpu/.local/share/vifm/Trash/000_xorg
+	/home/xeoncpu/Letöltések/dwm/.local/share/xorg
+t/home/xeoncpu/.local/share/vifm/Trash/000_gsettings-data-convert
+	/home/xeoncpu/Letöltések/dwm/.local/share/gsettings-data-convert
+t/home/xeoncpu/.local/share/vifm/Trash/001_recently-used.xbel
+	/home/xeoncpu/Letöltések/dwm/.local/share/recently-used.xbel
+t/home/xeoncpu/.local/share/vifm/Trash/001_weatherreport
+	/home/xeoncpu/Letöltések/dwm/.local/share/weatherreport
+t/home/xeoncpu/.local/share/vifm/Trash/000_share
+	/home/xeoncpu/Letöltések/dwm/.config/share
+t/home/xeoncpu/.local/share/vifm/Trash/000_dmenufm
+	/home/xeoncpu/Letöltések/dwm/dmenufm
+t/home/xeoncpu/.local/share/vifm/Trash/000_.git
+	/home/xeoncpu/Letöltések/dwm/dwm/.git
+t/home/xeoncpu/.local/share/vifm/Trash/000_.gitignore
+	/home/xeoncpu/Letöltések/dwm/dwm/.gitignore
+t/home/xeoncpu/.local/share/vifm/Trash/001_.git
+	/home/xeoncpu/Letöltések/dwm/dwmbar/.git
+t/home/xeoncpu/.local/share/vifm/Trash/002_.git
+	/home/xeoncpu/Letöltések/dwm/dmenufm/.git
+t/home/xeoncpu/.local/share/vifm/Trash/000_arco-openbox
+	/home/xeoncpu/arco-openbox
+t/home/xeoncpu/.local/share/vifm/Trash/000_arco-qtile-minimal
+	/home/xeoncpu/arco-qtile-minimal
+t/home/xeoncpu/.local/share/vifm/Trash/000_lsb-release.save
+	/home/xeoncpu/lsb-release.save
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191127-1659-37.png
+	/home/xeoncpu/pic-full-191127-1659-37.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191127-1735-14.png
+	/home/xeoncpu/pic-full-191127-1735-14.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191128-0637-54.png
+	/home/xeoncpu/pic-full-191128-0637-54.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191128-1945-47.png
+	/home/xeoncpu/pic-full-191128-1945-47.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_git.sh
+	/home/xeoncpu/git.sh
+t/home/xeoncpu/.local/share/vifm/Trash/000_gitbeal.sh
+	/home/xeoncpu/gitbeal.sh
+t/home/xeoncpu/.local/share/vifm/Trash/000_setup-git.sh
+	/home/xeoncpu/setup-git.sh
+t/home/xeoncpu/.local/share/vifm/Trash/000_wget-log
+	/home/xeoncpu/wget-log
+t/home/xeoncpu/.local/share/vifm/Trash/000_wget-log.1
+	/home/xeoncpu/wget-log.1
+t/home/xeoncpu/.local/share/vifm/Trash/000_WAmnM9T9.txt
+	/home/xeoncpu/WAmnM9T9.txt
+t/home/xeoncpu/.local/share/vifm/Trash/000_Downloads
+	/home/xeoncpu/Downloads
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191129-0620-18.png
+	/home/xeoncpu/pic-full-191129-0620-18.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191129-0621-27.png
+	/home/xeoncpu/pic-full-191129-0621-27.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191129-0627-48.png
+	/home/xeoncpu/pic-full-191129-0627-48.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_sxhkdrc.save
+	/home/xeoncpu/.config/sxhkd/sxhkdrc.save
+t/home/xeoncpu/.local/share/vifm/Trash/000_sxhkdrc.save.1
+	/home/xeoncpu/.config/sxhkd/sxhkdrc.save.1
+t/home/xeoncpu/.local/share/vifm/Trash/000_config.save
+	/home/xeoncpu/.config/bspwm/polybar/config.save
+t/home/xeoncpu/.local/share/vifm/Trash/000_config.save.1
+	/home/xeoncpu/.config/bspwm/polybar/config.save.1
+t/home/xeoncpu/.local/share/vifm/Trash/000_launch (másol 1).sh
+	/home/xeoncpu/.config/bspwm/polybar/launch (másol 1).sh
+t/home/xeoncpu/.local/share/vifm/Trash/001_config.save
+	/home/xeoncpu/.config/polybar/config.save
+t/home/xeoncpu/.local/share/vifm/Trash/001_config.save.1
+	/home/xeoncpu/.config/polybar/config.save.1
+t/home/xeoncpu/.local/share/vifm/Trash/001_launch (másol 1).sh
+	/home/xeoncpu/.config/polybar/launch (másol 1).sh
+t/home/xeoncpu/.local/share/vifm/Trash/000_polybar
+	/home/xeoncpu/.config/bspwm/polybar
+t/home/xeoncpu/.local/share/vifm/Trash/000_autostart.sh
+	/home/xeoncpu/.config/bspwm/autostart.sh
+t/home/xeoncpu/.local/share/vifm/Trash/000_2019-07-19-135830_3286x1080_scrot.png
+	/home/xeoncpu/2019-07-19-135830_3286x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2019-07-19-140046_3286x1080_scrot.png
+	/home/xeoncpu/2019-07-19-140046_3286x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2019-07-19-140139_3286x1080_scrot.png
+	/home/xeoncpu/2019-07-19-140139_3286x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_arcolinuxd-v19.12.13.iso
+	/home/xeoncpu/Letöltések/arcolinuxd-v19.12.13.iso
+t/home/xeoncpu/.local/share/vifm/Trash/000_arcolinuxd-v19.12.15.iso
+	/home/xeoncpu/Letöltések/arcolinuxd-v19.12.15.iso
+t/home/xeoncpu/.local/share/vifm/Trash/000_bg.png
+	/home/xeoncpu/.local/share/bmpanel2/themes/Knurra-blue/bg.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_.theme.swp
+	/home/xeoncpu/Letöltések/zfhqbs.tar/momo/.theme.swp
+t/home/xeoncpu/.local/share/vifm/Trash/000_Rambo.Last.Blood.2019.720p.Bluray.X264-EVO
+	/home/xeoncpu/Downloads/Rambo.Last.Blood.2019.720p.Bluray.X264-EVO
+t/home/xeoncpu/.local/share/vifm/Trash/000_Ready.or.Not.2019.BDRip.XviD.AC3-EVO
+	/home/xeoncpu/Downloads/Ready.or.Not.2019.BDRip.XviD.AC3-EVO
+t/home/xeoncpu/.local/share/vifm/Trash/000_MonstersOfCock  - Amia Miley - Fishing for cock.torrent
+	/home/xeoncpu/Downloads/MonstersOfCock  - Amia Miley - Fishing for cock.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Yip.Man.2.2010.CUSTOM.HUN.BDRiP.XViD-TiGeR.torrent
+	/home/xeoncpu/Downloads/[Majomparade]Yip.Man.2.2010.CUSTOM.HUN.BDRiP.XViD-TiGeR.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Yip.Man.3.2015.HUN.BDRip.Xvid-Gepont.torrent
+	/home/xeoncpu/Downloads/[Majomparade]Yip.Man.3.2015.HUN.BDRip.Xvid-Gepont.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Yip.Man.2008.CUSTOM.HUN.BDRiP.XViD-TiGeR.torrent
+	/home/xeoncpu/Downloads/[Majomparade]Yip.Man.2008.CUSTOM.HUN.BDRiP.XViD-TiGeR.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][clip]Joe_Cocker_-_Fire_it_Up_Live_720p.torrent
+	/home/xeoncpu/Downloads/[nCore][clip]Joe_Cocker_-_Fire_it_Up_Live_720p.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][clip]Joe_Cocker_-_Live_At_Montreux_1987.torrent
+	/home/xeoncpu/Downloads/[nCore][clip]Joe_Cocker_-_Live_At_Montreux_1987.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][hd]Joe.Cocker.Mad.Dog.With.Soul.2017.DOCU.1080p.BluRay.x264-TREBLE.torrent
+	/home/xeoncpu/Downloads/[nCore][hd]Joe.Cocker.Mad.Dog.With.Soul.2017.DOCU.1080p.BluRay.x264-TREBLE.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_alpha
+	/home/xeoncpu/Downloads/alpha
+t/home/xeoncpu/.local/share/vifm/Trash/000_arch
+	/home/xeoncpu/Downloads/arch
+t/home/xeoncpu/.local/share/vifm/Trash/000_bars
+	/home/xeoncpu/Downloads/bars
+t/home/xeoncpu/.local/share/vifm/Trash/000_blocks1
+	/home/xeoncpu/Downloads/blocks1
+t/home/xeoncpu/.local/share/vifm/Trash/000_blocks2
+	/home/xeoncpu/Downloads/blocks2
+t/home/xeoncpu/.local/share/vifm/Trash/000_bloks
+	/home/xeoncpu/Downloads/bloks
+t/home/xeoncpu/.local/share/vifm/Trash/000_colorbars
+	/home/xeoncpu/Downloads/colorbars
+t/home/xeoncpu/.local/share/vifm/Trash/000_colortest
+	/home/xeoncpu/Downloads/colortest
+t/home/xeoncpu/.local/share/vifm/Trash/000_colortest-slim
+	/home/xeoncpu/Downloads/colortest-slim
+t/home/xeoncpu/.local/share/vifm/Trash/000_colorview
+	/home/xeoncpu/Downloads/colorview
+t/home/xeoncpu/.local/share/vifm/Trash/000_colorwheel
+	/home/xeoncpu/Downloads/colorwheel
+t/home/xeoncpu/.local/share/vifm/Trash/000_crunch
+	/home/xeoncpu/Downloads/crunch
+t/home/xeoncpu/.local/share/vifm/Trash/000_crunchbang
+	/home/xeoncpu/Downloads/crunchbang
+t/home/xeoncpu/.local/share/vifm/Trash/000_crunchbang-mini
+	/home/xeoncpu/Downloads/crunchbang-mini
+t/home/xeoncpu/.local/share/vifm/Trash/000_darthvader
+	/home/xeoncpu/Downloads/darthvader
+t/home/xeoncpu/.local/share/vifm/Trash/000_dna
+	/home/xeoncpu/Downloads/dna
+t/home/xeoncpu/.local/share/vifm/Trash/000_elfman
+	/home/xeoncpu/Downloads/elfman
+t/home/xeoncpu/.local/share/vifm/Trash/000_faces
+	/home/xeoncpu/Downloads/faces
+t/home/xeoncpu/.local/share/vifm/Trash/000_fade
+	/home/xeoncpu/Downloads/fade
+t/home/xeoncpu/.local/share/vifm/Trash/000_ghosts
+	/home/xeoncpu/Downloads/ghosts
+t/home/xeoncpu/.local/share/vifm/Trash/000_guns
+	/home/xeoncpu/Downloads/guns
+t/home/xeoncpu/.local/share/vifm/Trash/000_hex
+	/home/xeoncpu/Downloads/hex
+t/home/xeoncpu/.local/share/vifm/Trash/000_illumina
+	/home/xeoncpu/Downloads/illumina
+t/home/xeoncpu/.local/share/vifm/Trash/000_jangofett
+	/home/xeoncpu/Downloads/jangofett
+t/home/xeoncpu/.local/share/vifm/Trash/000_monster
+	/home/xeoncpu/Downloads/monster
+t/home/xeoncpu/.local/share/vifm/Trash/000_mouseface
+	/home/xeoncpu/Downloads/mouseface
+t/home/xeoncpu/.local/share/vifm/Trash/000_mouseface2
+	/home/xeoncpu/Downloads/mouseface2
+t/home/xeoncpu/.local/share/vifm/Trash/000_pacman
+	/home/xeoncpu/Downloads/pacman
+t/home/xeoncpu/.local/share/vifm/Trash/000_panes
+	/home/xeoncpu/Downloads/panes
+t/home/xeoncpu/.local/share/vifm/Trash/000_pipes1
+	/home/xeoncpu/Downloads/pipes1
+t/home/xeoncpu/.local/share/vifm/Trash/000_pipes2
+	/home/xeoncpu/Downloads/pipes2
+t/home/xeoncpu/.local/share/vifm/Trash/000_pipes2-slim
+	/home/xeoncpu/Downloads/pipes2-slim
+t/home/xeoncpu/.local/share/vifm/Trash/000_print256
+	/home/xeoncpu/Downloads/print256
+t/home/xeoncpu/.local/share/vifm/Trash/000_pukeskull
+	/home/xeoncpu/Downloads/pukeskull
+t/home/xeoncpu/.local/share/vifm/Trash/000_rails
+	/home/xeoncpu/Downloads/rails
+t/home/xeoncpu/.local/share/vifm/Trash/000_rally-x
+	/home/xeoncpu/Downloads/rally-x
+t/home/xeoncpu/.local/share/vifm/Trash/000_rupees
+	/home/xeoncpu/Downloads/rupees
+t/home/xeoncpu/.local/share/vifm/Trash/000_six
+	/home/xeoncpu/Downloads/six
+t/home/xeoncpu/.local/share/vifm/Trash/000_space-invaders
+	/home/xeoncpu/Downloads/space-invaders
+t/home/xeoncpu/.local/share/vifm/Trash/000_spectrum
+	/home/xeoncpu/Downloads/spectrum
+t/home/xeoncpu/.local/share/vifm/Trash/000_square
+	/home/xeoncpu/Downloads/square
+t/home/xeoncpu/.local/share/vifm/Trash/000_tanks
+	/home/xeoncpu/Downloads/tanks
+t/home/xeoncpu/.local/share/vifm/Trash/000_terminal-colors.py
+	/home/xeoncpu/Downloads/terminal-colors.py
+t/home/xeoncpu/.local/share/vifm/Trash/000_thebat
+	/home/xeoncpu/Downloads/thebat
+t/home/xeoncpu/.local/share/vifm/Trash/000_thebat2
+	/home/xeoncpu/Downloads/thebat2
+t/home/xeoncpu/.local/share/vifm/Trash/000_tiefighter1
+	/home/xeoncpu/Downloads/tiefighter1
+t/home/xeoncpu/.local/share/vifm/Trash/000_tiefighter1-no-invo
+	/home/xeoncpu/Downloads/tiefighter1-no-invo
+t/home/xeoncpu/.local/share/vifm/Trash/000_tiefighter1row
+	/home/xeoncpu/Downloads/tiefighter1row
+t/home/xeoncpu/.local/share/vifm/Trash/000_tiefighter2
+	/home/xeoncpu/Downloads/tiefighter2
+t/home/xeoncpu/.local/share/vifm/Trash/000_unowns.py
+	/home/xeoncpu/Downloads/unowns.py
+t/home/xeoncpu/.local/share/vifm/Trash/000_archivedwl-122
+	/home/xeoncpu/Letöltések/archivedwl-122
+t/home/xeoncpu/.local/share/vifm/Trash/000_once.upon.a.time.in.hollywood.(2019).hun.1cd.(7993366)
+	/home/xeoncpu/Letöltések/once.upon.a.time.in.hollywood.(2019).hun.1cd.(7993366)
+t/home/xeoncpu/.local/share/vifm/Trash/000_rambo.last.blood.(2019).hun.1cd.(8000074)
+	/home/xeoncpu/Letöltések/rambo.last.blood.(2019).hun.1cd.(8000074)
+t/home/xeoncpu/.local/share/vifm/Trash/000_zfhqbs.tar
+	/home/xeoncpu/Letöltések/zfhqbs.tar
+t/home/xeoncpu/.local/share/vifm/Trash/000_ADOHIVATAL.vcf
+	/home/xeoncpu/Letöltések/ADOHIVATAL.vcf
+t/home/xeoncpu/.local/share/vifm/Trash/000_Ready.or.Not.2019.BDRip.XviD.AC3-EVO [IPT].torrent
+	/home/xeoncpu/Letöltések/Ready.or.Not.2019.BDRip.XviD.AC3-EVO [IPT].torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_WAmnM9T9(1).txt
+	/home/xeoncpu/Letöltések/WAmnM9T9(1).txt
+t/home/xeoncpu/.local/share/vifm/Trash/000_WAmnM9T9.txt
+	/home/xeoncpu/Letöltések/WAmnM9T9.txt
+t/home/xeoncpu/.local/share/vifm/Trash/000_archivedwl-122.zip
+	/home/xeoncpu/Letöltések/archivedwl-122.zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_arcolinuxb-hlwm-min-v19.12.15.iso
+	/home/xeoncpu/Letöltések/arcolinuxb-hlwm-min-v19.12.15.iso
+t/home/xeoncpu/.local/share/vifm/Trash/000_arcolinuxb-qtile-v19.12.15.iso
+	/home/xeoncpu/Letöltések/arcolinuxb-qtile-v19.12.15.iso
+t/home/xeoncpu/.local/share/vifm/Trash/000_iCloudos vCardok.vcf
+	/home/xeoncpu/Letöltések/iCloudos vCardok.vcf
+t/home/xeoncpu/.local/share/vifm/Trash/000_once.upon.a.time.in.hollywood.(2019).hun.1cd.(7993366).zip
+	/home/xeoncpu/Letöltések/once.upon.a.time.in.hollywood.(2019).hun.1cd.(7993366).zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_rambo.last.blood.(2019).dan.1cd.(7999782).zip
+	/home/xeoncpu/Letöltések/rambo.last.blood.(2019).dan.1cd.(7999782).zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_rambo.last.blood.(2019).hun.1cd.(8000074).zip
+	/home/xeoncpu/Letöltések/rambo.last.blood.(2019).hun.1cd.(8000074).zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_ready.or.not.(2019).hun.1cd.(7995943).zip
+	/home/xeoncpu/Letöltések/ready.or.not.(2019).hun.1cd.(7995943).zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_test.py
+	/home/xeoncpu/Letöltések/test.py
+t/home/xeoncpu/.local/share/vifm/Trash/000_theme
+	/home/xeoncpu/Letöltések/theme
+t/home/xeoncpu/.local/share/vifm/Trash/000_xmas-wallpaer-ascii-20191129T085614Z-001.zip
+	/home/xeoncpu/Letöltések/xmas-wallpaer-ascii-20191129T085614Z-001.zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_zfhqbs.tar.gz
+	/home/xeoncpu/Letöltések/zfhqbs.tar.gz
+t/home/xeoncpu/.local/share/vifm/Trash/000_.git
+	/home/xeoncpu/Letöltések/baz-voidrice/dwm/.git
+t/home/xeoncpu/.local/share/vifm/Trash/000_dmenufm
+	/home/xeoncpu/Letöltések/baz-voidrice/dmenufm
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191130-0639-45.png
+	/home/xeoncpu/pic-full-191130-0639-45.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191130-0703-15.png
+	/home/xeoncpu/pic-full-191130-0703-15.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191130-1651-33.png
+	/home/xeoncpu/pic-full-191130-1651-33.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191130-1653-14.png
+	/home/xeoncpu/pic-full-191130-1653-14.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191201-0405-33.png
+	/home/xeoncpu/pic-full-191201-0405-33.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191201-0707-14.png
+	/home/xeoncpu/pic-full-191201-0707-14.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191201-0833-33.png
+	/home/xeoncpu/pic-full-191201-0833-33.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191201-0957-55.png
+	/home/xeoncpu/pic-full-191201-0957-55.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191201-1347-25.png
+	/home/xeoncpu/pic-full-191201-1347-25.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191201-1539-44.png
+	/home/xeoncpu/pic-full-191201-1539-44.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191204-1255-46.png
+	/home/xeoncpu/pic-full-191204-1255-46.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191204-1259-10.png
+	/home/xeoncpu/pic-full-191204-1259-10.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_dwmbar
+	/home/xeoncpu/dwmbar
+t/home/xeoncpu/.local/share/vifm/Trash/000_.xsetroot.sh
+	/home/xeoncpu/.xsetroot.sh
+t/home/xeoncpu/.local/share/vifm/Trash/000_Ad.Astra.2019.720p.mHD.BluRay.DD+5.1.x264.HuN-Apex.mkv
+	/home/xeoncpu/Ad.Astra.2019.720p.mHD.BluRay.DD+5.1.x264.HuN-Apex.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191205-1920-53.png
+	/home/xeoncpu/pic-full-191205-1920-53.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_Christmas.with.the.Kranks.2004.720p.WEB-DL.H264.AC3.HUN-SPM
+	/home/xeoncpu/Downloads/Christmas.with.the.Kranks.2004.720p.WEB-DL.H264.AC3.HUN-SPM
+t/home/xeoncpu/.local/share/vifm/Trash/000_Dora.es.az.elveszett.aranyvaros.2019.HUN.mHD.Bluray.720p.x264.AC3.2.0-mHD
+	/home/xeoncpu/Downloads/Dora.es.az.elveszett.aranyvaros.2019.HUN.mHD.Bluray.720p.x264.AC3.2.0-mHD
+t/home/xeoncpu/.local/share/vifm/Trash/000_Tru Calling - Az őrangyal S01E01.mkv
+	/home/xeoncpu/Tru Calling - Az őrangyal S01E01.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_backups
+	/home/xeoncpu/.config/bspwm/backups
+t/home/xeoncpu/.local/share/vifm/Trash/000_compton.conf
+	/home/xeoncpu/.config/bspwm/compton.conf
+t/home/xeoncpu/.local/share/vifm/Trash/000_wall.png
+	/home/xeoncpu/.config/bspwm/wall.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_compton-toggle.sh
+	/home/xeoncpu/.config/bspwm/scripts/compton-toggle.sh
+t/home/xeoncpu/.local/share/vifm/Trash/000_dwm-focusonnetactive-2017-12-24-3756f7f.diff
+	/home/xeoncpu/Letöltések/dwm-focusonnetactive-2017-12-24-3756f7f.diff
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Ad.Astra.2019.720p.mHD.BluRay.DD+5.1.x264.HuN-Apex.torrent
+	/home/xeoncpu/Letöltések/[Majomparade]Ad.Astra.2019.720p.mHD.BluRay.DD+5.1.x264.HuN-Apex.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Countdown.2016.720p.BluRay.DD5.1.x264.Hun-ARROW.torrent
+	/home/xeoncpu/Letöltések/[Majomparade]Countdown.2016.720p.BluRay.DD5.1.x264.Hun-ARROW.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Ready.or.Not.2019.720p.mHD.BluRay.x264.HuN-Apex.torrent
+	/home/xeoncpu/Letöltések/[Majomparade]Ready.or.Not.2019.720p.mHD.BluRay.x264.HuN-Apex.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][hd_hun]Ready.or.Not.2019.720p.BluRay.DD5.1.x264.HuN-TRiNiTY.torrent
+	/home/xeoncpu/Letöltések/[nCore][hd_hun]Ready.or.Not.2019.720p.BluRay.DD5.1.x264.HuN-TRiNiTY.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][xvid_hun]Dora.and.the.Lost.City.of.Gold.2019.BDRip.x264.HuN-No1.torrent
+	/home/xeoncpu/Letöltések/[nCore][xvid_hun]Dora.and.the.Lost.City.of.Gold.2019.BDRip.x264.HuN-No1.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][xvid_hun]Easy.Rider.1969.Custom.BDRip.x264.2xHUN-MDC.torrent
+	/home/xeoncpu/Letöltések/[nCore][xvid_hun]Easy.Rider.1969.Custom.BDRip.x264.2xHUN-MDC.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][xvid_hun]Ready.or.Not.2019.BDRip.x264.HuN-TRiNiTY.torrent
+	/home/xeoncpu/Letöltések/[nCore][xvid_hun]Ready.or.Not.2019.BDRip.x264.HuN-TRiNiTY.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][xvidser_hun]Tru_Calling_-_Az_orangyal_S01-S02.torrent
+	/home/xeoncpu/Letöltések/[nCore][xvidser_hun]Tru_Calling_-_Az_orangyal_S01-S02.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_ad.astra.(2019).hun.1cd.(8008384).zip
+	/home/xeoncpu/Letöltések/ad.astra.(2019).hun.1cd.(8008384).zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_anyterm_9652_arm_001.zpkg
+	/home/xeoncpu/Letöltések/anyterm_9652_arm_001.zpkg
+t/home/xeoncpu/.local/share/vifm/Trash/000_dwmX-1.0.iso
+	/home/xeoncpu/Letöltések/dwmX-1.0.iso
+t/home/xeoncpu/.local/share/vifm/Trash/000_plexmediaserver-0.9.12-arm-15(1).txz
+	/home/xeoncpu/Letöltések/plexmediaserver-0.9.12-arm-15(1).txz
+t/home/xeoncpu/.local/share/vifm/Trash/000_plexmediaserver-0.9.12-arm-15.txz
+	/home/xeoncpu/Letöltések/plexmediaserver-0.9.12-arm-15.txz
+t/home/xeoncpu/.local/share/vifm/Trash/000_WallpaperStudio10-030066-1680x1050.jpg
+	/home/xeoncpu/Letöltések/WallpaperStudio10-030066-1680x1050.jpg
+t/home/xeoncpu/.local/share/vifm/Trash/000_plexmediaserver-0.9.12-arm-15
+	/home/xeoncpu/Letöltések/plexmediaserver-0.9.12-arm-15
+t/home/xeoncpu/.local/share/vifm/Trash/000_anyterm_9652_arm_001
+	/home/xeoncpu/Letöltések/anyterm_9652_arm_001
+t/home/xeoncpu/.local/share/vifm/Trash/000_plexmediaserver_1.18.2.2058-e67a4e892_armhf.deb
+	/home/xeoncpu/Downloads/plexmediaserver_1.18.2.2058-e67a4e892_armhf.deb
+t/home/xeoncpu/.local/share/vifm/Trash/000_DSM_DS211j_24922.pat
+	/home/xeoncpu/Downloads/DSM_DS211j_24922.pat
+t/home/xeoncpu/.local/share/vifm/Trash/000_FFPStick-2013-11-24.zip
+	/home/xeoncpu/Downloads/FFPStick-2013-11-24.zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_FreeNAS-11.2-U7(1).iso
+	/home/xeoncpu/Downloads/FreeNAS-11.2-U7(1).iso
+t/home/xeoncpu/.local/share/vifm/Trash/000_FreeNAS-11.2-U7.iso
+	/home/xeoncpu/Downloads/FreeNAS-11.2-U7.iso
+t/home/xeoncpu/.local/share/vifm/Trash/000_FreeNAS-11.3-RC1.iso
+	/home/xeoncpu/Downloads/FreeNAS-11.3-RC1.iso
+t/home/xeoncpu/.local/share/vifm/Trash/000_NSA310S_V4.75(AALH.2)C0(1).zip
+	/home/xeoncpu/Downloads/NSA310S_V4.75(AALH.2)C0(1).zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_NSA310S_V4.75(AALH.2)C0(2).zip
+	/home/xeoncpu/Downloads/NSA310S_V4.75(AALH.2)C0(2).zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_NSA310S_V4.75(AALH.2)C0.zip
+	/home/xeoncpu/Downloads/NSA310S_V4.75(AALH.2)C0.zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_NSA325 v2_2.pdf
+	/home/xeoncpu/Downloads/NSA325 v2_2.pdf
+t/home/xeoncpu/.local/share/vifm/Trash/000_PlexSign.key
+	/home/xeoncpu/Downloads/PlexSign.key
+t/home/xeoncpu/.local/share/vifm/Trash/000_iron.sky.the.coming.race.(2019).hun.1cd.(7745005).zip
+	/home/xeoncpu/Downloads/iron.sky.the.coming.race.(2019).hun.1cd.(7745005).zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_openmediavault-omvextrasorg_4.1.16_all.deb
+	/home/xeoncpu/Downloads/openmediavault-omvextrasorg_4.1.16_all.deb
+t/home/xeoncpu/.local/share/vifm/Trash/000_openmediavault-omvextrasorg_5.0.2_all.deb
+	/home/xeoncpu/Downloads/openmediavault-omvextrasorg_5.0.2_all.deb
+t/home/xeoncpu/.local/share/vifm/Trash/000_openmediavault-omvextrasorg_5.0.5_all.deb
+	/home/xeoncpu/Downloads/openmediavault-omvextrasorg_5.0.5_all.deb
+t/home/xeoncpu/.local/share/vifm/Trash/000_openmediavault-omvextrasorg_5.0_all.deb
+	/home/xeoncpu/Downloads/openmediavault-omvextrasorg_5.0_all.deb
+t/home/xeoncpu/.local/share/vifm/Trash/000_openmediavault-omvextrasorg_5.1.2_all.deb
+	/home/xeoncpu/Downloads/openmediavault-omvextrasorg_5.1.2_all.deb
+t/home/xeoncpu/.local/share/vifm/Trash/000_openmediavault-omvextrasorg_5.1.9_all.deb
+	/home/xeoncpu/Downloads/openmediavault-omvextrasorg_5.1.9_all.deb
+t/home/xeoncpu/.local/share/vifm/Trash/000_openmediavault_5.0.5-amd64.iso
+	/home/xeoncpu/Downloads/openmediavault_5.0.5-amd64.iso
+t/home/xeoncpu/.local/share/vifm/Trash/000_synology-assistant_6.2-24922_amd64.deb
+	/home/xeoncpu/Downloads/synology-assistant_6.2-24922_amd64.deb
+t/home/xeoncpu/.local/share/vifm/Trash/000_wallpapers-master.zip
+	/home/xeoncpu/Downloads/wallpapers-master.zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_arcolinux-v19.12.15.torrent
+	/home/xeoncpu/Downloads/arcolinux-v19.12.15.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_arcolinuxb-qtile-min-v19.12.15.iso
+	/home/xeoncpu/Downloads/arcolinuxb-qtile-min-v19.12.15.iso
+t/home/xeoncpu/.local/share/vifm/Trash/000_arcolinuxd-v19.12.15.torrent
+	/home/xeoncpu/Downloads/arcolinuxd-v19.12.15.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_openmediavault_4.1.22-amd64.iso
+	/home/xeoncpu/Downloads/openmediavault_4.1.22-amd64.iso
+t/home/xeoncpu/.local/share/vifm/Trash/000_nas
+	/home/xeoncpu/nas
+t/home/xeoncpu/.local/share/vifm/Trash/000_openmediavault-omvextrasorg
+	/home/xeoncpu/openmediavault-omvextrasorg
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191211-1705-03.png
+	/home/xeoncpu/pic-full-191211-1705-03.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191212-1643-58.png
+	/home/xeoncpu/pic-full-191212-1643-58.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191212-1935-56.png
+	/home/xeoncpu/pic-full-191212-1935-56.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191214-1849-05.png
+	/home/xeoncpu/pic-full-191214-1849-05.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191216-0729-29.png
+	/home/xeoncpu/pic-full-191216-0729-29.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191217-1921-08.png
+	/home/xeoncpu/pic-full-191217-1921-08.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191217-1921-10.png
+	/home/xeoncpu/pic-full-191217-1921-10.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191218-1318-53.png
+	/home/xeoncpu/pic-full-191218-1318-53.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191218-2132-12.png
+	/home/xeoncpu/pic-full-191218-2132-12.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_baz-voidrice
+	/home/xeoncpu/Letöltések/baz-voidrice
+t/home/xeoncpu/.local/share/vifm/Trash/000_dotfiles
+	/home/xeoncpu/Letöltések/dotfiles
+t/home/xeoncpu/.local/share/vifm/Trash/000_Kingsoft
+	/home/xeoncpu/.config/Kingsoft
+t/home/xeoncpu/.local/share/vifm/Trash/000_libreoffice
+	/home/xeoncpu/.config/libreoffice
+t/home/xeoncpu/.local/share/vifm/Trash/000_WallpaperStudio10-030066-1680x1050
+	/home/xeoncpu/Letöltések/WallpaperStudio10-030066-1680x1050
+t/home/xeoncpu/.local/share/vifm/Trash/000_The.Mule.2018.BDRip.x264-DRONES.srt
+	/home/xeoncpu/Letöltések/The.Mule.2018.BDRip.x264-DRONES.srt
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#580299]The_Mule_2018_1080p_UHD_BluRay_DD+5_1_HDR_x265-MGs.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#580299]The_Mule_2018_1080p_UHD_BluRay_DD+5_1_HDR_x265-MGs.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_arcolinux-v19.12.16.torrent
+	/home/xeoncpu/Letöltések/arcolinux-v19.12.16.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/001_arcolinuxb-qtile-min-v19.12.15.iso
+	/home/xeoncpu/Letöltések/arcolinuxb-qtile-min-v19.12.15.iso
+t/home/xeoncpu/.local/share/vifm/Trash/000_arcolinuxd-v19.12.16.torrent
+	/home/xeoncpu/Letöltések/arcolinuxd-v19.12.16.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191220-1230-41.png
+	/home/xeoncpu/pic-full-191220-1230-41.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191221-0635-04.png
+	/home/xeoncpu/pic-full-191221-0635-04.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191221-1444-36.png
+	/home/xeoncpu/pic-full-191221-1444-36.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191221-1723-31.png
+	/home/xeoncpu/pic-full-191221-1723-31.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191221-1941-56.png
+	/home/xeoncpu/pic-full-191221-1941-56.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191222-1126-36.png
+	/home/xeoncpu/pic-full-191222-1126-36.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191222-1159-14.png
+	/home/xeoncpu/pic-full-191222-1159-14.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191222-1615-12.png
+	/home/xeoncpu/pic-full-191222-1615-12.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_screencast-191222-1153-34.mkv
+	/home/xeoncpu/screencast-191222-1153-34.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_screencast-191222-1302-22.mkv
+	/home/xeoncpu/screencast-191222-1302-22.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_video-191222-1129-47.mkv
+	/home/xeoncpu/video-191222-1129-47.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_video-191222-1149-53.mkv
+	/home/xeoncpu/video-191222-1149-53.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_video-191222-1309-29.mkv
+	/home/xeoncpu/video-191222-1309-29.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_hideIt.sh
+	/home/xeoncpu/hideIt.sh
+t/home/xeoncpu/.local/share/vifm/Trash/000_ezgif.com-gif-maker.gif
+	/home/xeoncpu/ezgif.com-gif-maker.gif
+t/home/xeoncpu/.local/share/vifm/Trash/000_ezgif.com-optimize.gif
+	/home/xeoncpu/ezgif.com-optimize.gif
+t/home/xeoncpu/.local/share/vifm/Trash/000_Peek 2019-12-22 13-07.gif
+	/home/xeoncpu/Peek 2019-12-22 13-07.gif
+t/home/xeoncpu/.local/share/vifm/Trash/000_200h.gif
+	/home/xeoncpu/200h.gif
+t/home/xeoncpu/.local/share/vifm/Trash/000_Peek 2019-12-23 04-08.gif
+	/home/xeoncpu/Peek 2019-12-23 04-08.gif
+t/home/xeoncpu/.local/share/vifm/Trash/000_Peek 2019-12-23 04-33.gif
+	/home/xeoncpu/Peek 2019-12-23 04-33.gif
+t/home/xeoncpu/.local/share/vifm/Trash/000_Get-Started.tar.gz
+	/home/xeoncpu/Downloads/Get-Started.tar.gz
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Aki.bujt.2019.HUN.mHD.Bluray.720p.x264.AC3.5.1-mHD.torrent
+	/home/xeoncpu/Downloads/[Majomparade]Aki.bujt.2019.HUN.mHD.Bluray.720p.x264.AC3.5.1-mHD.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Anger.Management.2003.1080p.mHD.BluRay.x264-HuN-kanyar80.torrent
+	/home/xeoncpu/Downloads/[Majomparade]Anger.Management.2003.1080p.mHD.BluRay.x264-HuN-kanyar80.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Crawl.2019.BDRip.XviD.HUN-POWER.torrent
+	/home/xeoncpu/Downloads/[Majomparade]Crawl.2019.BDRip.XviD.HUN-POWER.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Eretlensegi.2019.HUN.mHD.Bluray.720p.x264.AC3.2.0-mHD.torrent
+	/home/xeoncpu/Downloads/[Majomparade]Eretlensegi.2019.HUN.mHD.Bluray.720p.x264.AC3.2.0-mHD.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Fearless.2006.BluRay.720p.x264.DTS.Hun-TRiNiTY.torrent
+	/home/xeoncpu/Downloads/[Majomparade]Fearless.2006.BluRay.720p.x264.DTS.Hun-TRiNiTY.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Fortunata.2017.BDRip.XviD.Hun-DJD.torrent
+	/home/xeoncpu/Downloads/[Majomparade]Fortunata.2017.BDRip.XviD.Hun-DJD.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Master.Z.Ip.Man.Legacy.2018.1080p.BluRay.TrueHD.7.1.Atmos.2Audio.x264-HDS.torrent
+	/home/xeoncpu/Downloads/[Majomparade]Master.Z.Ip.Man.Legacy.2018.1080p.BluRay.TrueHD.7.1.Atmos.2Audio.x264-HDS.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Once.A.Thief.1991.720p.BluRay.DD5.1.x264.HuN-TRiNiTY.torrent
+	/home/xeoncpu/Downloads/[Majomparade]Once.A.Thief.1991.720p.BluRay.DD5.1.x264.HuN-TRiNiTY.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Railroad.Tigers.2016.HUN.BDRiP.DD5.1.x264-ARROW.torrent
+	/home/xeoncpu/Downloads/[Majomparade]Railroad.Tigers.2016.HUN.BDRiP.DD5.1.x264-ARROW.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Rocky.Balboa.2006.FAREWELL.720p.BluRay.DTS.x264.Hun-rB.torrent
+	/home/xeoncpu/Downloads/[Majomparade]Rocky.Balboa.2006.FAREWELL.720p.BluRay.DTS.x264.Hun-rB.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Rocky.V.1990.BDRip.x264.HUN-gyontato.torrent
+	/home/xeoncpu/Downloads/[Majomparade]Rocky.V.1990.BDRip.x264.HUN-gyontato.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Security.2017.BDRip.XviD.HUN-POWER.torrent
+	/home/xeoncpu/Downloads/[Majomparade]Security.2017.BDRip.XviD.HUN-POWER.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]The.November.Man.2014.BDRip.XviD.HuN-No1.torrent
+	/home/xeoncpu/Downloads/[Majomparade]The.November.Man.2014.BDRip.XviD.HuN-No1.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]The.Prophecy.1995.Open.Matte.Starz.1080p.AMZN.WEB-DL.DD+5.1.H264.HuN-TRiNiTY.torrent
+	/home/xeoncpu/Downloads/[Majomparade]The.Prophecy.1995.Open.Matte.Starz.1080p.AMZN.WEB-DL.DD+5.1.H264.HuN-TRiNiTY.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]The.Uninvited.2009.1080p.RETAiL.BluRay.DTS.Hungarian.x264-WALLE.torrent
+	/home/xeoncpu/Downloads/[Majomparade]The.Uninvited.2009.1080p.RETAiL.BluRay.DTS.Hungarian.x264-WALLE.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#274162]Last_Vegas_2013_BDRip_XviD_HuN-MWT.torrent
+	/home/xeoncpu/Downloads/[bHUm_#274162]Last_Vegas_2013_BDRip_XviD_HuN-MWT.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#490595]Vizozon_1998_Open_Matte_WEBRIP_x264_HUN-nubira.torrent
+	/home/xeoncpu/Downloads/[bHUm_#490595]Vizozon_1998_Open_Matte_WEBRIP_x264_HUN-nubira.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#511861]The_Bonfire_Of_The_Vanities_1990_1080p_BluRay_x264_DTS_ENG_HUN-SinTO.torrent
+	/home/xeoncpu/Downloads/[bHUm_#511861]The_Bonfire_Of_The_Vanities_1990_1080p_BluRay_x264_DTS_ENG_HUN-SinTO.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#577435]Assassination_Nation_2018_BDRip_x264_HuN-No1.torrent
+	/home/xeoncpu/Downloads/[bHUm_#577435]Assassination_Nation_2018_BDRip_x264_HuN-No1.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#580055]Person_of_Interest_S01-S05_REPACK_BDrip_HUN_ENG_x264-DenZo.torrent
+	/home/xeoncpu/Downloads/[bHUm_#580055]Person_of_Interest_S01-S05_REPACK_BDrip_HUN_ENG_x264-DenZo.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#678977]John_Wick_Chapter_3_Parabellum_2019_HUN_BDRiP_DD2_0_XviD-Gianni.torrent
+	/home/xeoncpu/Downloads/[bHUm_#678977]John_Wick_Chapter_3_Parabellum_2019_HUN_BDRiP_DD2_0_XviD-Gianni.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#682659]10_Cloverfield_Lane_2016_720p_READ_NFO_BluRay_DD-EX_5_1_x264_HuN-TRiNiTY.torrent
+	/home/xeoncpu/Downloads/[bHUm_#682659]10_Cloverfield_Lane_2016_720p_READ_NFO_BluRay_DD-EX_5_1_x264_HuN-TRiNiTY.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#683033]Venice_Calling_2019_720p_BluRay_DD5_1_x264_HuN-No1.torrent
+	/home/xeoncpu/Downloads/[bHUm_#683033]Venice_Calling_2019_720p_BluRay_DD5_1_x264_HuN-No1.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#689055]A_Sisters_Secret_2018_720p_AMZN_WEBRip_DDP2_0_x264_Hun-ARROW.torrent
+	/home/xeoncpu/Downloads/[bHUm_#689055]A_Sisters_Secret_2018_720p_AMZN_WEBRip_DDP2_0_x264_Hun-ARROW.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#689157]Az_elet_csodaszep_SZINES_VALTOZAT_1946_1080p_BluRay_x264_Hun-BiTZoNe.torrent
+	/home/xeoncpu/Downloads/[bHUm_#689157]Az_elet_csodaszep_SZINES_VALTOZAT_1946_1080p_BluRay_x264_Hun-BiTZoNe.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#689555]Escaping_The_Madhouse_The_Nellie_Bly_Story_2019_720p_AMZN_WEBRip_DDP2_0_x264_Hun-ARROW.torrent
+	/home/xeoncpu/Downloads/[bHUm_#689555]Escaping_The_Madhouse_The_Nellie_Bly_Story_2019_720p_AMZN_WEBRip_DDP2_0_x264_Hun-ARROW.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#689565]Escaping_The_Madhouse_The_Nellie_Bly_Story_2019_1080p_AMZN_WEBRip_DDP2_0_x264_Hun-ARROW.torrent
+	/home/xeoncpu/Downloads/[bHUm_#689565]Escaping_The_Madhouse_The_Nellie_Bly_Story_2019_1080p_AMZN_WEBRip_DDP2_0_x264_Hun-ARROW.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#691187]The_Professor_2018_1080p_BluRay_DD+5_1_x264_HuN-No1.torrent
+	/home/xeoncpu/Downloads/[bHUm_#691187]The_Professor_2018_1080p_BluRay_DD+5_1_x264_HuN-No1.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][hd]Iron.Sky.The.Coming.Race.2019.LiMiTED.720p.BluRay.x264-CADAVER.torrent
+	/home/xeoncpu/Downloads/[nCore][hd]Iron.Sky.The.Coming.Race.2019.LiMiTED.720p.BluRay.x264-CADAVER.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][hd_hun]Goodfellas.1990.Remastered.READ.NFO.720p.BluRay.DD5.1.x264.HuN-TRiNiTY.torrent
+	/home/xeoncpu/Downloads/[nCore][hd_hun]Goodfellas.1990.Remastered.READ.NFO.720p.BluRay.DD5.1.x264.HuN-TRiNiTY.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][hd_hun]Its.A.Wonderful.Life.Colorized.Version.1946.BluRay.720p.Hun.x264-DenZo.torrent
+	/home/xeoncpu/Downloads/[nCore][hd_hun]Its.A.Wonderful.Life.Colorized.Version.1946.BluRay.720p.Hun.x264-DenZo.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][hd_hun]Son.Of.Rambow.2007.HUN.720p.BluRay.DTS.x264-ARROW.torrent
+	/home/xeoncpu/Downloads/[nCore][hd_hun]Son.Of.Rambow.2007.HUN.720p.BluRay.DTS.x264-ARROW.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][hd_hun]The.Bouncer.2018.720p.BluRay.DD5.1.x264.HuN-No1.torrent
+	/home/xeoncpu/Downloads/[nCore][hd_hun]The.Bouncer.2018.720p.BluRay.DD5.1.x264.HuN-No1.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][hdser]Az_irogep_S01_720p.torrent
+	/home/xeoncpu/Downloads/[nCore][hdser]Az_irogep_S01_720p.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][hdser_hun]L.A.s.Finest.S01E11.720p.WEB-DL.DD5.1.H.264.HUN.ENG-PTHD.torrent
+	/home/xeoncpu/Downloads/[nCore][hdser_hun]L.A.s.Finest.S01E11.720p.WEB-DL.DD5.1.H.264.HUN.ENG-PTHD.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][xvid_hun]Dave.1993.Custom.BDRip.x264.HUN-MDC.torrent
+	/home/xeoncpu/Downloads/[nCore][xvid_hun]Dave.1993.Custom.BDRip.x264.HUN-MDC.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_FFPStick-2013-11-24
+	/home/xeoncpu/Downloads/FFPStick-2013-11-24
+t/home/xeoncpu/.local/share/vifm/Trash/000_iron.sky.the.coming.race.(2019).hun.1cd.(7745005)
+	/home/xeoncpu/Downloads/iron.sky.the.coming.race.(2019).hun.1cd.(7745005)
+t/home/xeoncpu/.local/share/vifm/Trash/000_Code.8.2019.iT.1080p.WEB-DL.H264.AC3-EVO [IPT].torrent
+	/home/xeoncpu/Downloads/Code.8.2019.iT.1080p.WEB-DL.H264.AC3-EVO [IPT].torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_photo_2019-12-23_22-16-23.jpg
+	/home/xeoncpu/photo_2019-12-23_22-16-23.jpg
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191223-0606-32.png
+	/home/xeoncpu/pic-full-191223-0606-32.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191223-0736-44.png
+	/home/xeoncpu/pic-full-191223-0736-44.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191223-2042-39.png
+	/home/xeoncpu/pic-full-191223-2042-39.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191223-2222-39.png
+	/home/xeoncpu/pic-full-191223-2222-39.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191224-0717-13.png
+	/home/xeoncpu/pic-full-191224-0717-13.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191224-0941-21.png
+	/home/xeoncpu/pic-full-191224-0941-21.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191224-0942-58.png
+	/home/xeoncpu/pic-full-191224-0942-58.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191224-0947-57.png
+	/home/xeoncpu/pic-full-191224-0947-57.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_tenor.gif
+	/home/xeoncpu/tenor.gif
+t/home/xeoncpu/.local/share/vifm/Trash/000_.tftpgui.cfg
+	/home/xeoncpu/.tftpgui.cfg
+t/home/xeoncpu/.local/share/vifm/Trash/000_.nvidia-settings-rc
+	/home/xeoncpu/.nvidia-settings-rc
+t/home/xeoncpu/.local/share/vifm/Trash/000_.Komorebi.prop
+	/home/xeoncpu/.Komorebi.prop
+t/home/xeoncpu/.local/share/vifm/Trash/000_arcolinux-xmonad-polybar
+	/home/xeoncpu/arcolinux-xmonad-polybar
+t/home/xeoncpu/.local/share/vifm/Trash/000_2019-12-31-055711_1920x1080_scrot.png
+	/home/xeoncpu/2019-12-31-055711_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191230-0748-08.png
+	/home/xeoncpu/pic-full-191230-0748-08.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191230-1914-59.png
+	/home/xeoncpu/pic-full-191230-1914-59.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-191230-1916-54.png
+	/home/xeoncpu/pic-full-191230-1916-54.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_ddspawn
+	/home/xeoncpu/ddspawn
+t/home/xeoncpu/.local/share/vifm/Trash/000_It.Happened.One.Christmas.1977.WEBRip.x264-ION10.hun.srt
+	/home/xeoncpu/Letöltések/It.Happened.One.Christmas.1977.WEBRip.x264-ION10.hun.srt
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#695147]Minis_First_Time_2006_720p_BluRay_DD_5_1_x264_HUN-Legacy.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#695147]Minis_First_Time_2006_720p_BluRay_DD_5_1_x264_HUN-Legacy.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#696005]Badogemberek_1987_WEB-DL_720p_H264_Hun-Pirosasz.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#696005]Badogemberek_1987_WEB-DL_720p_H264_Hun-Pirosasz.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#696357]Alibi_Torzs_1998_WEB-DL_720p_H264_Hun-Pirosasz.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#696357]Alibi_Torzs_1998_WEB-DL_720p_H264_Hun-Pirosasz.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#696429]Puncture_2011_720p_BluRay_DD5_1_x264_Hun-ARROW.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#696429]Puncture_2011_720p_BluRay_DD5_1_x264_Hun-ARROW.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#696469]Cry_Wolf_2005_Open_Matte_720p_WEB-DL_DD+5_1_x264_Hun-L77.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#696469]Cry_Wolf_2005_Open_Matte_720p_WEB-DL_DD+5_1_x264_Hun-L77.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#696539]Lords_of_Chaos_2018_720p_BluRay_DD_5_1_x264_HUN-Legacy.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#696539]Lords_of_Chaos_2018_720p_BluRay_DD_5_1_x264_HUN-Legacy.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#696983]Foglyok_2019_720p_WEB-DL_H264_Hun-TheMilkyWay.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#696983]Foglyok_2019_720p_WEB-DL_H264_Hun-TheMilkyWay.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][hd_hun]Poms.2019.REPACK.720p.BluRay.DD5.1.x264.HuN-No1.torrent
+	/home/xeoncpu/Letöltések/[nCore][hd_hun]Poms.2019.REPACK.720p.BluRay.DD5.1.x264.HuN-No1.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][hd_hun]Us.2019.720p.BluRay.DD5.1.x264.HuN-TRiNiTY.torrent
+	/home/xeoncpu/Letöltések/[nCore][hd_hun]Us.2019.720p.BluRay.DD5.1.x264.HuN-TRiNiTY.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][xvid_hun]Fifty.Shades.Darker.2017.UNRATED.BDRiP.x264.HuN-HyperX.torrent
+	/home/xeoncpu/Letöltések/[nCore][xvid_hun]Fifty.Shades.Darker.2017.UNRATED.BDRiP.x264.HuN-HyperX.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[nCore][xvid_hun]Fifty.Shades.Freed.2018.UNRATED.BDRip.x264.HuN-No1.torrent
+	/home/xeoncpu/Letöltések/[nCore][xvid_hun]Fifty.Shades.Freed.2018.UNRATED.BDRip.x264.HuN-No1.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_xmonad2.hs
+	/home/xeoncpu/Letöltések/xmonad2.hs
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-01-04-095219_1920x1080_scrot.png
+	/home/xeoncpu/2020-01-04-095219_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-01-06-151315_1920x1080_scrot.png
+	/home/xeoncpu/2020-01-06-151315_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_bookmarks.html
+	/home/xeoncpu/bookmarks.html
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200107-0956-02.png
+	/home/xeoncpu/pic-full-200107-0956-02.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200107-1007-32.png
+	/home/xeoncpu/pic-full-200107-1007-32.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200107-1403-17.png
+	/home/xeoncpu/pic-full-200107-1403-17.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200107-1408-18.png
+	/home/xeoncpu/pic-full-200107-1408-18.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200107-1436-23.png
+	/home/xeoncpu/pic-full-200107-1436-23.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_powermenu
+	/home/xeoncpu/powermenu
+t/home/xeoncpu/.local/share/vifm/Trash/000_scratch
+	/home/xeoncpu/scratch
+t/home/xeoncpu/.local/share/vifm/Trash/001_baz-voidrice
+	/home/xeoncpu/Documents/baz-voidrice
+t/home/xeoncpu/.local/share/vifm/Trash/000_.ncmpcpp
+	/home/xeoncpu/.ncmpcpp
+t/home/xeoncpu/.local/share/vifm/Trash/000_mpd
+	/home/xeoncpu/.config/mpd
+t/home/xeoncpu/.local/share/vifm/Trash/000_spotify
+	/home/xeoncpu/spotify
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-01-08-163324_1920x1080_scrot.png
+	/home/xeoncpu/2020-01-08-163324_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-01-08-163511_1920x1080_scrot.png
+	/home/xeoncpu/2020-01-08-163511_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-01-08-163705_1920x1080_scrot.png
+	/home/xeoncpu/2020-01-08-163705_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-01-08-163735_1920x1080_scrot.png
+	/home/xeoncpu/2020-01-08-163735_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-01-09-044405_1920x1080_scrot.png
+	/home/xeoncpu/2020-01-09-044405_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-01-10-180248_1920x1080_scrot.png
+	/home/xeoncpu/2020-01-10-180248_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-01-10-184525_1920x1080_scrot.png
+	/home/xeoncpu/2020-01-10-184525_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-01-10-192420_1920x1080_scrot.png
+	/home/xeoncpu/2020-01-10-192420_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200109-1321-22.png
+	/home/xeoncpu/pic-full-200109-1321-22.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200109-1626-53.png
+	/home/xeoncpu/pic-full-200109-1626-53.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_aio-core.sh
+	/home/xeoncpu/aio-core.sh
+t/home/xeoncpu/.local/share/vifm/Trash/000_jgmenurc
+	/home/xeoncpu/jgmenurc
+t/home/xeoncpu/.local/share/vifm/Trash/000_.xmonad
+	/home/xeoncpu/.xmonad
+t/home/xeoncpu/.local/share/vifm/Trash/000_dwm
+	/home/xeoncpu/dwm
+t/home/xeoncpu/.local/share/vifm/Trash/000_xbm_icons
+	/home/xeoncpu/xbm_icons
+t/home/xeoncpu/.local/share/vifm/Trash/000_.xmobarrc
+	/home/xeoncpu/.xmobarrc
+t/home/xeoncpu/.local/share/vifm/Trash/000_README.md
+	/home/xeoncpu/README.md
+t/home/xeoncpu/.local/share/vifm/Trash/000_LICENSE
+	/home/xeoncpu/baz-voidrice/LICENSE
+t/home/xeoncpu/.local/share/vifm/Trash/001_README.md
+	/home/xeoncpu/baz-voidrice/README.md
+t/home/xeoncpu/.local/share/vifm/Trash/001_aio-core.sh
+	/home/xeoncpu/baz-voidrice/aio-core.sh
+t/home/xeoncpu/.local/share/vifm/Trash/001_gitbeal.sh
+	/home/xeoncpu/baz-voidrice/gitbeal.sh
+t/home/xeoncpu/.local/share/vifm/Trash/001_jgmenurc
+	/home/xeoncpu/baz-voidrice/jgmenurc
+t/home/xeoncpu/.local/share/vifm/Trash/001_.xmonad
+	/home/xeoncpu/baz-voidrice/.xmonad
+t/home/xeoncpu/.local/share/vifm/Trash/001_dwm
+	/home/xeoncpu/baz-voidrice/dwm
+t/home/xeoncpu/.local/share/vifm/Trash/000_themes
+	/home/xeoncpu/baz-voidrice/themes
+t/home/xeoncpu/.local/share/vifm/Trash/001_xbm_icons
+	/home/xeoncpu/baz-voidrice/xbm_icons
+t/home/xeoncpu/.local/share/vifm/Trash/001_.xmobarrc
+	/home/xeoncpu/baz-voidrice/.xmobarrc
+t/home/xeoncpu/.local/share/vifm/Trash/000_BraveSoftware
+	/home/xeoncpu/baz-voidrice/.config/BraveSoftware
+t/home/xeoncpu/.local/share/vifm/Trash/000_Dharkael
+	/home/xeoncpu/baz-voidrice/.config/Dharkael
+t/home/xeoncpu/.local/share/vifm/Trash/000_Thunar
+	/home/xeoncpu/baz-voidrice/.config/Thunar
+t/home/xeoncpu/.local/share/vifm/Trash/000_cef_user_data
+	/home/xeoncpu/baz-voidrice/.config/cef_user_data
+t/home/xeoncpu/.local/share/vifm/Trash/000_discord
+	/home/xeoncpu/baz-voidrice/.config/discord
+t/home/xeoncpu/.local/share/vifm/Trash/000_herbstluftwm
+	/home/xeoncpu/baz-voidrice/.config/herbstluftwm
+t/home/xeoncpu/.local/share/vifm/Trash/000_lyrics
+	/home/xeoncpu/baz-voidrice/.config/lyrics
+t/home/xeoncpu/.local/share/vifm/Trash/000_spotify
+	/home/xeoncpu/baz-voidrice/.config/spotify
+t/home/xeoncpu/.local/share/vifm/Trash/000_sublime-text-3
+	/home/xeoncpu/baz-voidrice/.config/sublime-text-3
+t/home/xeoncpu/.local/share/vifm/Trash/000_transmission-daemon
+	/home/xeoncpu/baz-voidrice/.config/transmission-daemon
+t/home/xeoncpu/.local/share/vifm/Trash/000_xfce4
+	/home/xeoncpu/baz-voidrice/.config/xfce4
+t/home/xeoncpu/.local/share/vifm/Trash/000_yay
+	/home/xeoncpu/baz-voidrice/.config/yay
+t/home/xeoncpu/.local/share/vifm/Trash/001_root:
+	/home/xeoncpu/Downloads/root:
+t/home/xeoncpu/.local/share/vifm/Trash/003_~
+	/home/xeoncpu/Downloads/~
+t/home/xeoncpu/.local/share/vifm/Trash/000_.spectrwm-keys.conf
+	/home/xeoncpu/.spectrwm-keys.conf
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200318-0923-09.png
+	/home/xeoncpu/pic-full-200318-0923-09.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200318-0923-36.png
+	/home/xeoncpu/pic-full-200318-0923-36.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-03-18_09-25.png
+	/home/xeoncpu/scrot/2020-03-18_09-25.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-03-18_09-25_1.png
+	/home/xeoncpu/scrot/2020-03-18_09-25_1.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-03-18_09-45.png
+	/home/xeoncpu/scrot/2020-03-18_09-45.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_star.wars.the.rise.of.skywalker.(2019).hun.1cd.(8127308).zip
+	/home/xeoncpu/Downloads/star.wars.the.rise.of.skywalker.(2019).hun.1cd.(8127308).zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.grudge.(2020).hun.1cd.(8128248).zip
+	/home/xeoncpu/Downloads/the.grudge.(2020).hun.1cd.(8128248).zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_Xresources
+	/home/xeoncpu/Downloads/Xresources
+t/home/xeoncpu/.local/share/vifm/Trash/000_Xresources (1)
+	/home/xeoncpu/Downloads/Xresources (1)
+t/home/xeoncpu/.local/share/vifm/Trash/000_Új mappa
+	/home/xeoncpu/Downloads/Új mappa
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.nfo
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.nfo
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r00
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r00
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r01
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r01
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r02
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r02
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r03
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r03
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r04
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r04
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r05
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r05
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r06
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r06
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r07
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r07
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r08
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r08
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r09
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r09
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r10
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r10
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r11
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r11
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r12
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r12
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r13
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r13
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r14
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r14
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r15
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r15
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r16
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r16
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r17
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r17
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r18
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r18
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r19
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r19
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r20
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r20
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r21
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r21
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r22
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r22
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r23
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r23
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r24
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r24
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r25
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r25
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r26
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r26
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r27
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r27
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r28
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r28
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r29
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r29
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r30
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r30
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r31
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r31
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r32
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r32
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r33
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r33
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r34
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r34
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r35
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r35
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r36
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r36
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r37
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r37
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.r38
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.r38
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.rar
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.rar
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264-drones.sfv
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES/the.peanut.butter.falcon.2019.bdrip.x264-drones.sfv
+t/home/xeoncpu/.local/share/vifm/Trash/000_The.Invisible.Man.2020.1080p.WEB-DL.H264.AC3-EVO.mkv
+	/home/xeoncpu/Videók/The.Invisible.Man.2020.1080p.WEB-DL.H264.AC3-EVO/The.Invisible.Man.2020.1080p.WEB-DL.H264.AC3-EVO.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.(2019).hun.1cd.(7997068)
+	/home/xeoncpu/Letöltések/the.peanut.butter.falcon.(2019).hun.1cd.(7997068)
+t/home/xeoncpu/.local/share/vifm/Trash/000_92338528_694097671359600_646431692315164672_n.jpg
+	/home/xeoncpu/Letöltések/92338528_694097671359600_646431692315164672_n.jpg
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Black.Christmas.2019.1080p.BluRay.DD+5.1.x264.HuN-BlacKChristmaS.torrent
+	/home/xeoncpu/Letöltések/[Majomparade]Black.Christmas.2019.1080p.BluRay.DD+5.1.x264.HuN-BlacKChristmaS.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Gyagyak.a.gatyaban.HUN.720p.WEB-DL.h264-TOXI.torrent
+	/home/xeoncpu/Letöltések/[Majomparade]Gyagyak.a.gatyaban.HUN.720p.WEB-DL.h264-TOXI.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Szaguldo.nyar.1978.HUN.720p.WEB-DL.H.264-TOXI.torrent
+	/home/xeoncpu/Letöltések/[Majomparade]Szaguldo.nyar.1978.HUN.720p.WEB-DL.H.264-TOXI.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#177603]Jericho_S02_RETAiL_HUN_DVDRip_XviD-HSF.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#177603]Jericho_S02_RETAiL_HUN_DVDRip_XviD-HSF.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#380485]Jericho_2016_S01_WEB-DLRip_x264_HuN-lsl.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#380485]Jericho_2016_S01_WEB-DLRip_x264_HuN-lsl.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#428535]High_Plains_Drifter_1973_720p_BluRay_DTS_x264_HuN-TRiNiTY.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#428535]High_Plains_Drifter_1973_720p_BluRay_DTS_x264_HuN-TRiNiTY.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#584311]E_T_The_Extra_Terrestrial_1982_2xHUN_720p_BluRay__x264-TOXI.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#584311]E_T_The_Extra_Terrestrial_1982_2xHUN_720p_BluRay__x264-TOXI.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_ip.man.4.the.finale.(2019).hun.1cd.(8162830).zip
+	/home/xeoncpu/Letöltések/ip.man.4.the.finale.(2019).hun.1cd.(8162830).zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.(2019).hun.1cd.(7997068).zip
+	/home/xeoncpu/Letöltések/the.peanut.butter.falcon.(2019).hun.1cd.(7997068).zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_The.Invisible.Man.2020.1080p.WEB-DL.H264.AC3-EVO
+	/home/xeoncpu/Videók/The.Invisible.Man.2020.1080p.WEB-DL.H264.AC3-EVO
+t/home/xeoncpu/.local/share/vifm/Trash/000_The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES
+	/home/xeoncpu/Videók/The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES
+t/home/xeoncpu/.local/share/vifm/Trash/000_The.Cranberries-Beneath.the.Skin.Live.in.Paris.v2.mkv
+	/home/xeoncpu/Videók/The.Cranberries-Beneath.the.Skin.Live.in.Paris.v2.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_The.Invisible.Man.2020.1080p.WEB-DL.H264.AC3.mkv
+	/home/xeoncpu/Videók/The.Invisible.Man.2020.1080p.WEB-DL.H264.AC3.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_falcon.mkv
+	/home/xeoncpu/Videók/falcon.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_the.peanut.butter.falcon.2019.bdrip.x264.mkv
+	/home/xeoncpu/Videók/the.peanut.butter.falcon.2019.bdrip.x264.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_Goldfinger - 'Here In Your Bedroom' (Quarantine Video)-0cQA6d3adPs.mkv
+	/home/xeoncpu/Goldfinger - 'Here In Your Bedroom' (Quarantine Video)-0cQA6d3adPs.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_NOFX - The Decline Live at Red Rocks w_ Baz's Orchestra (Official Video)-oWhy8PCuGsk.webm
+	/home/xeoncpu/NOFX - The Decline Live at Red Rocks w_ Baz's Orchestra (Official Video)-oWhy8PCuGsk.webm
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200408-1314-31.png
+	/home/xeoncpu/pic-full-200408-1314-31.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200410-1954-33.png
+	/home/xeoncpu/pic-full-200410-1954-33.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_USA.invazio.1985.Custom.DVDRip.XviD.Dual_edit.mkv
+	/home/xeoncpu/USA.invazio.1985.Custom.DVDRip.XviD.Dual_edit.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_The.Cranberries-Beneath.the.Skin.Live.in.Paris.mkv
+	/home/xeoncpu/Videók/The.Cranberries-Beneath.the.Skin.Live.in.Paris.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_USA.invazio.1985.Custom.DVDRip.XviD.Dual.mkv
+	/home/xeoncpu/Videók/USA.invazio.1985.Custom.DVDRip.XviD.Dual.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_USA.invazio.1985.mkv
+	/home/xeoncpu/USA.invazio.1985.mkv
+t/home/xeoncpu/.local/share/vifm/Trash/000_USA.invazio.ac3
+	/home/xeoncpu/USA.invazio.ac3
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200413-1105-14.png
+	/home/xeoncpu/pic-full-200413-1105-14.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200413-1124-50.png
+	/home/xeoncpu/pic-full-200413-1124-50.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200413-1644-57.png
+	/home/xeoncpu/pic-full-200413-1644-57.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_KISSKOOL-SIZZLING RED
+	/home/xeoncpu/.themes/KISSKOOL-SIZZLING RED
+t/home/xeoncpu/.local/share/vifm/Trash/000_Material-Magic-Frost
+	/home/xeoncpu/.themes/Material-Magic-Frost
+t/home/xeoncpu/.local/share/vifm/Trash/000_Solarized-Dark-Blue
+	/home/xeoncpu/.themes/Solarized-Dark-Blue
+t/home/xeoncpu/.local/share/vifm/Trash/000_Solarized-Dark-Green
+	/home/xeoncpu/.themes/Solarized-Dark-Green
+t/home/xeoncpu/.local/share/vifm/Trash/000_Solarized-Dark-Green-Numix
+	/home/xeoncpu/.themes/Solarized-Dark-Green-Numix
+t/home/xeoncpu/.local/share/vifm/Trash/000_Solarized-FLAT-Green
+	/home/xeoncpu/.themes/Solarized-FLAT-Green
+t/home/xeoncpu/.local/share/vifm/Trash/000_assets
+	/home/xeoncpu/.themes/assets
+t/home/xeoncpu/.local/share/vifm/Trash/000_cinnamon
+	/home/xeoncpu/.themes/cinnamon
+t/home/xeoncpu/.local/share/vifm/Trash/000_gtk-2.0
+	/home/xeoncpu/.themes/gtk-2.0
+t/home/xeoncpu/.local/share/vifm/Trash/000_gtk-3.0
+	/home/xeoncpu/.themes/gtk-3.0
+t/home/xeoncpu/.local/share/vifm/Trash/000_gtk-3.20
+	/home/xeoncpu/.themes/gtk-3.20
+t/home/xeoncpu/.local/share/vifm/Trash/000_metacity-1
+	/home/xeoncpu/.themes/metacity-1
+t/home/xeoncpu/.local/share/vifm/Trash/000_openbox-3
+	/home/xeoncpu/.themes/openbox-3
+t/home/xeoncpu/.local/share/vifm/Trash/000_unity
+	/home/xeoncpu/.themes/unity
+t/home/xeoncpu/.local/share/vifm/Trash/000_xfwm4
+	/home/xeoncpu/.themes/xfwm4
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-04-14-185023_1920x1080_scrot.png
+	/home/xeoncpu/2020-04-14-185023_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-04-14-185046_1920x1080_scrot.png
+	/home/xeoncpu/2020-04-14-185046_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-04-14-194715_1920x1080_scrot.png
+	/home/xeoncpu/2020-04-14-194715_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-04-15-083453_1920x1080_scrot.png
+	/home/xeoncpu/2020-04-15-083453_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200414-1203-27.png
+	/home/xeoncpu/pic-full-200414-1203-27.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200414-1916-36.png
+	/home/xeoncpu/pic-full-200414-1916-36.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200415-0543-58.png
+	/home/xeoncpu/pic-full-200415-0543-58.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200415-0622-43.png
+	/home/xeoncpu/pic-full-200415-0622-43.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200415-0654-03.png
+	/home/xeoncpu/pic-full-200415-0654-03.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200415-0714-11.png
+	/home/xeoncpu/pic-full-200415-0714-11.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200415-0813-21.png
+	/home/xeoncpu/pic-full-200415-0813-21.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200415-1317-28.png
+	/home/xeoncpu/pic-full-200415-1317-28.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200415-1321-26.png
+	/home/xeoncpu/pic-full-200415-1321-26.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200415-1911-44.png
+	/home/xeoncpu/pic-full-200415-1911-44.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200415-1918-29.png
+	/home/xeoncpu/pic-full-200415-1918-29.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200415-2031-47.png
+	/home/xeoncpu/pic-full-200415-2031-47.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200415-2034-58.png
+	/home/xeoncpu/pic-full-200415-2034-58.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200415-2039-51.png
+	/home/xeoncpu/pic-full-200415-2039-51.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200415-2046-33.png
+	/home/xeoncpu/pic-full-200415-2046-33.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_MagyArch_test
+	/home/xeoncpu/.themes/MagyArch_test
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-$(date
+	/home/xeoncpu/pic-full-$(date
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200415-2100-22.png
+	/home/xeoncpu/pic-full-200415-2100-22.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200416-0646-33.png
+	/home/xeoncpu/pic-full-200416-0646-33.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200416-1043-53.png
+	/home/xeoncpu/pic-full-200416-1043-53.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200416-1108-52.png
+	/home/xeoncpu/pic-full-200416-1108-52.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200416-1129-30.png
+	/home/xeoncpu/pic-full-200416-1129-30.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200416-1213-03.png
+	/home/xeoncpu/pic-full-200416-1213-03.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200416-1213-11.png
+	/home/xeoncpu/pic-full-200416-1213-11.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200416-1251-11.png
+	/home/xeoncpu/pic-full-200416-1251-11.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200416-1548-09.png
+	/home/xeoncpu/pic-full-200416-1548-09.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200416-1553-03.png
+	/home/xeoncpu/pic-full-200416-1553-03.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200416-1556-13.png
+	/home/xeoncpu/pic-full-200416-1556-13.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-04-17-092022_1920x1080_scrot.png
+	/home/xeoncpu/2020-04-17-092022_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-04-17-111145_1920x1080_scrot.png
+	/home/xeoncpu/2020-04-17-111145_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-04-17-114109_1920x1080_scrot.png
+	/home/xeoncpu/2020-04-17-114109_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-04-17-145628_1920x1080_scrot.png
+	/home/xeoncpu/2020-04-17-145628_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_Pictures
+	/home/xeoncpu/Pictures
+t/home/xeoncpu/.local/share/vifm/Trash/000_Abyss-DEEP-Suru_1.5.9
+	/home/xeoncpu/Letöltések/Abyss-DEEP-Suru_1.5.9
+t/home/xeoncpu/.local/share/vifm/Trash/000_KISSKOOL-SIZZLING RED.tar
+	/home/xeoncpu/Letöltések/KISSKOOL-SIZZLING RED.tar
+t/home/xeoncpu/.local/share/vifm/Trash/000_Material-Magic-Frost_1.3.9
+	/home/xeoncpu/Letöltések/Material-Magic-Frost_1.3.9
+t/home/xeoncpu/.local/share/vifm/Trash/000_Nordic-Folders.tar
+	/home/xeoncpu/Letöltések/Nordic-Folders.tar
+t/home/xeoncpu/.local/share/vifm/Trash/000_Nordic-standard-buttons.tar
+	/home/xeoncpu/Letöltések/Nordic-standard-buttons.tar
+t/home/xeoncpu/.local/share/vifm/Trash/000_Nordic.tar
+	/home/xeoncpu/Letöltések/Nordic.tar
+t/home/xeoncpu/.local/share/vifm/Trash/000_Solarized-Dark-Green-Numix_1.9.8
+	/home/xeoncpu/Letöltések/Solarized-Dark-Green-Numix_1.9.8
+t/home/xeoncpu/.local/share/vifm/Trash/000_Solarized-Numix-FLAT-Green_1.9.8
+	/home/xeoncpu/Letöltések/Solarized-Numix-FLAT-Green_1.9.8
+t/home/xeoncpu/.local/share/vifm/Trash/000_USA.invazio.1985.Custom.DVDRip.XviD.Dual-Avalon
+	/home/xeoncpu/Letöltések/USA.invazio.1985.Custom.DVDRip.XviD.Dual-Avalon
+t/home/xeoncpu/.local/share/vifm/Trash/000_6_TT-LFT kérelem 2017.doc
+	/home/xeoncpu/Letöltések/6_TT-LFT kérelem 2017.doc
+t/home/xeoncpu/.local/share/vifm/Trash/000_Abyss-DEEP-Suru_1.5.9.zip
+	/home/xeoncpu/Letöltések/Abyss-DEEP-Suru_1.5.9.zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_Címsor hozzáadása(1).png
+	/home/xeoncpu/Letöltések/Címsor hozzáadása(1).png
+t/home/xeoncpu/.local/share/vifm/Trash/000_Honey.Boy.2019.720p.BluRay.x264-EiDER [IPT].torrent
+	/home/xeoncpu/Letöltések/Honey.Boy.2019.720p.BluRay.x264-EiDER [IPT].torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_KISSKOOL-SIZZLING RED.tar.gz
+	/home/xeoncpu/Letöltések/KISSKOOL-SIZZLING RED.tar.gz
+t/home/xeoncpu/.local/share/vifm/Trash/000_Material-Magic-Frost_1.3.9.zip
+	/home/xeoncpu/Letöltések/Material-Magic-Frost_1.3.9.zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_Material-Magic-Ink_1.3.9.zip
+	/home/xeoncpu/Letöltések/Material-Magic-Ink_1.3.9.zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_Nordic-Folders.tar.xz
+	/home/xeoncpu/Letöltések/Nordic-Folders.tar.xz
+t/home/xeoncpu/.local/share/vifm/Trash/000_Nordic-standard-buttons.tar.xz
+	/home/xeoncpu/Letöltések/Nordic-standard-buttons.tar.xz
+t/home/xeoncpu/.local/share/vifm/Trash/000_Nordic.tar.xz
+	/home/xeoncpu/Letöltések/Nordic.tar.xz
+t/home/xeoncpu/.local/share/vifm/Trash/000_Névtelen terv.png
+	/home/xeoncpu/Letöltések/Névtelen terv.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_Solarized-Dark-Green-Numix_1.9.8.zip
+	/home/xeoncpu/Letöltések/Solarized-Dark-Green-Numix_1.9.8.zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_Solarized-Numix-FLAT-Green_1.9.8.zip
+	/home/xeoncpu/Letöltések/Solarized-Numix-FLAT-Green_1.9.8.zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_The.Rhythm.Section.2020.720p.WEBRip.DD5.1.x264-BDP [IPT].torrent
+	/home/xeoncpu/Letöltések/The.Rhythm.Section.2020.720p.WEBRip.DD5.1.x264-BDP [IPT].torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Arok.2020.HUN.mHD.Bluray.720p.x264.AC3.5.1-mHD.torrent
+	/home/xeoncpu/Letöltések/[Majomparade]Arok.2020.HUN.mHD.Bluray.720p.x264.AC3.5.1-mHD.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Hang.'Em.High.1968.BluRay.1080p.x264.DTS-MySiLU.torrent
+	/home/xeoncpu/Letöltések/[Majomparade]Hang.'Em.High.1968.BluRay.1080p.x264.DTS-MySiLU.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Perfetti.sconosciuti.2016.720p.BluRay.DD5.1.x264.Hun-L77.torrent
+	/home/xeoncpu/Letöltések/[Majomparade]Perfetti.sconosciuti.2016.720p.BluRay.DD5.1.x264.Hun-L77.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[Majomparade]Standing.Up.2013.720p.WEB-DL.DD5.1.H.264.HuN-SaS.torrent
+	/home/xeoncpu/Letöltések/[Majomparade]Standing.Up.2013.720p.WEB-DL.DD5.1.H.264.HuN-SaS.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#94346]Requiem_For_a_Dream_2000_1080p_BluRay_x264_Hun-Optimus.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#94346]Requiem_For_a_Dream_2000_1080p_BluRay_x264_Hun-Optimus.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#97688]The_Godfather_1972_ReadNFO_1080p_BluRay_DTS_x264_Hun-ESiR-arpi.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#97688]The_Godfather_1972_ReadNFO_1080p_BluRay_DTS_x264_Hun-ESiR-arpi.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#97838]Alien_vs_Predator_2004_Bluray_1080p_DTS_HUN_x264-NyTT.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#97838]Alien_vs_Predator_2004_Bluray_1080p_DTS_HUN_x264-NyTT.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#98086]The_Godfather_Part_II_1974_ReadNFO_1080p_BluRay_x264_Hun-ESiR-arpi.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#98086]The_Godfather_Part_II_1974_ReadNFO_1080p_BluRay_x264_Hun-ESiR-arpi.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#99892]King_Kong_2005_Extended_Cut_1080p_HDDVD-BluRay_DTS_x264-TRiNiTY.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#99892]King_Kong_2005_Extended_Cut_1080p_HDDVD-BluRay_DTS_x264-TRiNiTY.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#100766]Groundhog_Day_1993_BluRay_RETAiL_1080p_DTS_HUN_x264-NyTT.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#100766]Groundhog_Day_1993_BluRay_RETAiL_1080p_DTS_HUN_x264-NyTT.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#203780]USA_invazio_1985_Custom_DVDRip_XviD_Dual-Avalon.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#203780]USA_invazio_1985_Custom_DVDRip_XviD_Dual-Avalon.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#214498]Mientras_duermes_2011_720p_BluRay_x264-DON.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#214498]Mientras_duermes_2011_720p_BluRay_x264-DON.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#305043]La_isla_minima_2014_720p_Bluray_DD5_1_x264-EbP.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#305043]La_isla_minima_2014_720p_Bluray_DD5_1_x264-EbP.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#403263]The_Invisible_Guest_2016_720p_BluRay_x264-USURY.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#403263]The_Invisible_Guest_2016_720p_BluRay_x264-USURY.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#479823]Oblivion_2013_Open_Matte_1080p_Hybrid_BluRay_DTS_x264_HuN-CRLS.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#479823]Oblivion_2013_Open_Matte_1080p_Hybrid_BluRay_DTS_x264_HuN-CRLS.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#695329]It_Chapter_Two_2019_1080p_BluRay_DD+7_1_x264_HuN-No1.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#695329]It_Chapter_Two_2019_1080p_BluRay_DD+7_1_x264_HuN-No1.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#716213]Abominable_2019_720p_BluRay_DD5_1_x264_HuN-No1.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#716213]Abominable_2019_720p_BluRay_DD5_1_x264_HuN-No1.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#746387]The_Turning_2020_1080p_BluRay_x264-YOL0W.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#746387]The_Turning_2020_1080p_BluRay_x264-YOL0W.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#746987]Jumanji_The_Next_Level_2019_720p_BluRay_DD5_1_x264_HUN-PTHD.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#746987]Jumanji_The_Next_Level_2019_720p_BluRay_DD5_1_x264_HUN-PTHD.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#747351]The_Lost_Husband_2020_1080p_WEBRip_X264_DD_5_1-EVO.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#747351]The_Lost_Husband_2020_1080p_WEBRip_X264_DD_5_1-EVO.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#747361]We_Summon_The_Darkness_2020_1080p_WEBRip_X264_DD_5_1-EVO.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#747361]We_Summon_The_Darkness_2020_1080p_WEBRip_X264_DD_5_1-EVO.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#747593]Blindness_2008_1080p_BluRay_DTS_x264_HuN-TRiNiTY.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#747593]Blindness_2008_1080p_BluRay_DTS_x264_HuN-TRiNiTY.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#747657]Az_elveszett_kardforgato_2011_BDRip_x264_HuN-BaKeR.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#747657]Az_elveszett_kardforgato_2011_BDRip_x264_HuN-BaKeR.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#748571]Perfetti_sconosciuti_2016_720p_BluRay_DD5_1_x264_Hun-L77.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#748571]Perfetti_sconosciuti_2016_720p_BluRay_DD5_1_x264_Hun-L77.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#748933]Tul_a_baratsagon_2005_Bluray_1080p_DTS_HUN_x264-gyontato.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#748933]Tul_a_baratsagon_2005_Bluray_1080p_DTS_HUN_x264-gyontato.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#749267]Underwater_2020_1080p_BluRay_DD+7_1_x264_HuN-UnDeRwAtEr.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#749267]Underwater_2020_1080p_BluRay_DD+7_1_x264_HuN-UnDeRwAtEr.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#749343]Jojo_Rabbit_2019_1080p_BluRay_DTS_x264_HuN-JoJo.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#749343]Jojo_Rabbit_2019_1080p_BluRay_DTS_x264_HuN-JoJo.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#750241]Sympathy_For_Lady_Vengeance_2005_1080p_BluRay_DTS_x264_Hun-Rabbit.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#750241]Sympathy_For_Lady_Vengeance_2005_1080p_BluRay_DTS_x264_Hun-Rabbit.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#750243]Sympathy_For_Mr_Vengeance_2002_1080p_BluRay_DTS_x264_Hun-Rabbit.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#750243]Sympathy_For_Mr_Vengeance_2002_1080p_BluRay_DTS_x264_Hun-Rabbit.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#750419]Phenomenon_1996_1080p_BluRay_DTS_x264_HUN-L3o.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#750419]Phenomenon_1996_1080p_BluRay_DTS_x264_HUN-L3o.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_[bHUm_#751081]48_Hrs_1982_Bluray_1080p_ENG_HUN_x264-ToPCopZ.torrent
+	/home/xeoncpu/Letöltések/[bHUm_#751081]48_Hrs_1982_Bluray_1080p_ENG_HUN_x264-ToPCopZ.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_honey.boy.(2019).hun.1cd.(8107366).zip
+	/home/xeoncpu/Letöltések/honey.boy.(2019).hun.1cd.(8107366).zip
+t/home/xeoncpu/.local/share/vifm/Trash/000_honeycomb-orange-hexagon-beehive-2560x1080-c2-2f2b26-5f513d-l2-37-443-a-0-f-5.jpg
+	/home/xeoncpu/Letöltések/honeycomb-orange-hexagon-beehive-2560x1080-c2-2f2b26-5f513d-l2-37-443-a-0-f-5.jpg
+t/home/xeoncpu/.local/share/vifm/Trash/000_magyarchlinux_archive.torrent
+	/home/xeoncpu/Letöltések/magyarchlinux_archive.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/000_magyarcslinux-2020.04.08-x86_64_archive.torrent
+	/home/xeoncpu/Letöltések/magyarcslinux-2020.04.08-x86_64_archive.torrent
+t/home/xeoncpu/.local/share/vifm/Trash/001_Solarized-Dark-Blue
+	/home/xeoncpu/Letöltések/baz-voidrice/.themes/Solarized-Dark-Blue
+t/home/xeoncpu/.local/share/vifm/Trash/001_Solarized-Dark-Green
+	/home/xeoncpu/Letöltések/baz-voidrice/.themes/Solarized-Dark-Green
+t/home/xeoncpu/.local/share/vifm/Trash/000_getkeys
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/getkeys
+t/home/xeoncpu/.local/share/vifm/Trash/000_dconf
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/dconf
+t/home/xeoncpu/.local/share/vifm/Trash/000_infoerik.sh
+	/home/xeoncpu/Letöltések/baz-voidrice/.config/bspwm/scripts/infoerik.sh
+t/home/xeoncpu/.local/share/vifm/Trash/000_.spectrwm.conf
+	/home/xeoncpu/Letöltések/baz-bspwm/.spectrwm.conf
+t/home/xeoncpu/.local/share/vifm/Trash/002_Solarized-Dark-Blue
+	/home/xeoncpu/Letöltések/baz-bspwm/.themes/Solarized-Dark-Blue
+t/home/xeoncpu/.local/share/vifm/Trash/002_Solarized-Dark-Green
+	/home/xeoncpu/Letöltések/baz-bspwm/.themes/Solarized-Dark-Green
+t/home/xeoncpu/.local/share/vifm/Trash/000_.icons
+	/home/xeoncpu/Letöltések/baz-bspwm/.icons
+t/home/xeoncpu/.local/share/vifm/Trash/000_.uuid
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/.uuid
+t/home/xeoncpu/.local/share/vifm/Trash/000_Artifika-Regular.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/Artifika-Regular.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_AvantGarde_LT_Medium.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/AvantGarde_LT_Medium.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_GE_Inspira.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/GE_Inspira.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_GrandHotel-Regular.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/GrandHotel-Regular.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_HNUT.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/HNUT.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_Hack-Regular-Nerd-Font-Complete-Mono.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/Hack-Regular-Nerd-Font-Complete-Mono.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_Hack_Regular_Nerd_Font_Complete_Mono.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/Hack_Regular_Nerd_Font_Complete_Mono.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_Inked Out.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/Inked Out.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_Poky.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/Poky.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_Porto.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/Porto.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_Quantify Bold.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/Quantify Bold.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_STJEDISE.TTF
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/STJEDISE.TTF
+t/home/xeoncpu/.local/share/vifm/Trash/000_STYLBCC_.TTF
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/STYLBCC_.TTF
+t/home/xeoncpu/.local/share/vifm/Trash/000_Starjedi.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/Starjedi.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_Starjhol.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/Starjhol.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_Starjout.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/Starjout.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_Stjldbl1.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/Stjldbl1.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_Stya.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/Stya.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_Ubuntu.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/Ubuntu.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/000_space age.ttf
+	/home/xeoncpu/Letöltések/baz-bspwm/.fonts/space age.ttf
+t/home/xeoncpu/.local/share/vifm/Trash/001_getkeys
+	/home/xeoncpu/Letöltések/baz-bspwm/.config/getkeys
+t/home/xeoncpu/.local/share/vifm/Trash/000_herbstluftwm
+	/home/xeoncpu/Letöltések/baz-bspwm/.config/herbstluftwm
+t/home/xeoncpu/.local/share/vifm/Trash/001_neofetch
+	/home/xeoncpu/Letöltések/baz-bspwm/.config/neofetch
+t/home/xeoncpu/.local/share/vifm/Trash/000_wall.png
+	/home/xeoncpu/Letöltések/baz-bspwm/.config/wall.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_st-solarized-dark-20180411-041912a.diff
+	/home/xeoncpu/Letöltések/st/st-solarized-dark-20180411-041912a.diff
+t/home/xeoncpu/.local/share/vifm/Trash/000_st
+	/home/xeoncpu/Letöltések/st
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-04-17.png
+	/home/xeoncpu/2020-04-17.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200418-0700-22.png
+	/home/xeoncpu/pic-full-200418-0700-22.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_pic-full-200418-0909-39.png
+	/home/xeoncpu/pic-full-200418-0909-39.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_baraction.sh
+	/home/xeoncpu/.config/baraction.sh
+t/home/xeoncpu/.local/share/vifm/Trash/000_wallpaper.png
+	/home/xeoncpu/.config/wallpaper.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_05-09-2020-06:25.png
+	/home/xeoncpu/05-09-2020-06:25.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_05-09-2020-06:28.png
+	/home/xeoncpu/05-09-2020-06:28.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_05-09-2020-06:43.png
+	/home/xeoncpu/05-09-2020-06:43.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_05-09-2020-06:51.png
+	/home/xeoncpu/05-09-2020-06:51.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_Magyarch-bspwm(1).pdf
+	/home/xeoncpu/Letöltések/Magyarch-bspwm(1).pdf
+t/home/xeoncpu/.local/share/vifm/Trash/000_Magyarch-bspwm.pdf
+	/home/xeoncpu/Letöltések/Magyarch-bspwm.pdf
+t/home/xeoncpu/.local/share/vifm/Trash/000_baz-bspwm
+	/home/xeoncpu/baz-bspwm
+t/home/xeoncpu/.local/share/vifm/Trash/000_.spectrwm.conf
+	/home/xeoncpu/Letöltések/.spectrwm.conf
+t/home/xeoncpu/.local/share/vifm/Trash/001_baraction.sh
+	/home/xeoncpu/Letöltések/baraction.sh
+t/home/xeoncpu/.local/share/vifm/Trash/000_Magyarchlinux_welcome.pdf
+	/home/xeoncpu/Letöltések/baz-bspwm/.local/share/Magyarchlinux_welcome.pdf

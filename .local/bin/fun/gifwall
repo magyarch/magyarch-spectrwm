@@ -1,0 +1,3 @@
+#!/bin/bash
+
+xwinwrap -fdt -fs -ni -s -nf -b -un -argb -- gifview -w WID ~/foo-Wallpaper-Feh-Gif/gif/maison.gif -a &

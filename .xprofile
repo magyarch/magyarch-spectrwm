@@ -1,0 +1,26 @@
+#!/bin/sh
+
+setbg &		# Set the background
+# Switch to US international with Caps as Mod/Escape
+setxkbmap -option caps:super -variant altgr-intl && killall xcape 2>/dev/null ; xcape -e 'Super_L=Escape' &
+setxkbmap --layout hu &
+# Properties button extra Mod/Escape
+xmodmap -e 'keycode 135 = Super_R' &
+xsetroot -cursor_name left_ptr &
+xset r rate 500 30 &	# Speed xrate up
+unclutter &		# Remove mouse when idle
+picom --config ~/.config/picom.conf &		# xcompmgr for transparency
+dunst &                 # dunst for notifications
+#blueberry-tray &
+#xrandr --output LVDS1 --mode 1366x768 --output HDMI1 --mode 1920x1080 --right-of LVDS1 &
+#xrandr --output HDMI1 --primary --mode 1920x1080 --output LVDS1 --off
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+feh --no-fehbg --bg-scale ~/.config/wallpaper.png &
+#zathura $HOME/.local/share/Magyarchlinux_welcome.pdf &
+
+
+
+
+
+
+
