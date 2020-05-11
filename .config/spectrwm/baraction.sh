@@ -9,6 +9,7 @@ dte(){
 hdd(){
   hdd="$(df -h | awk 'NR==4{print $3, $5}')"
   echo -e "+@fn=2;💾+@fn=0; $hdd"
+
 }
 
 mem(){
@@ -45,12 +46,18 @@ wtr() {
   echo -e "+@fn=2;$weat+@fn=0; $weat1 $weat2"
 }
 
-SLEEP_SEC=1
+wth(){
+  SCRIPT_PATH=$HOME/.local/bin/statusbar/weather
+  wth=$("$SCRIPT_PATH")
+  echo -n
+}  
+
+SLEEP_SEC=2
 
 while :; do
-	
+
   echo "$(cpu) | $(temp) | $(hdd) | $(mem) | $(wtr) | $(dte) | $(vol)"
-  
+
   sleep $SLEEP_SEC # Update time every ten seconds
-done 
+done
 
