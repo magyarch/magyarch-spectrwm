@@ -7,13 +7,11 @@
 
 declare options=("alias
 bash
-bspwm
+spectrwm
 profile
 vifm
 xinitrc
-polybar
-st
-sxhkd
+barconf
 vim
 xprofile
 quit")
@@ -30,8 +28,8 @@ case "$choice" in
 	bash)
 		choice="$HOME/.bashrc"
 	;;
-	bspwm)
-		choice="$HOME/.config/bspwm/bspwmrc"
+	spectrwm)
+		choice="$HOME/.spectrwm.conf"
 	;;
 	profile)
 		choice="$HOME/.profile"
@@ -42,14 +40,8 @@ case "$choice" in
 	xinitrc)
 		choice="$HOME/.xinitrc"
 	;;
-	polybar)
-		choice="$HOME/.config/polybar/config"
-	;;
-	st)
-		choice="$HOME/st/config.h"
-	;;
-	sxhkd)
-		choice="$HOME/.config/sxhkd/sxhkdrc"
+	barconf)
+		choice="$HOME/.config/spectrwm/baraction.sh"
 	;;
 	vim)
 		choice="$HOME/.vimrc"
