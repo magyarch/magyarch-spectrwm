@@ -52,7 +52,7 @@ wth(){
   echo -n
 }  
 
-SLEEP_SEC=2
+SLEEP_SEC=0.5
 
 while :; do
 
