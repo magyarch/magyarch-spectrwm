@@ -6,12 +6,6 @@ dte(){
   echo -e "+@fn=2;📅+@fn=0; $dte"
 }
 
-hdd(){
-  hdd="$(df -h | awk 'NR==4{print $3, $5}')"
-  echo -e "+@fn=2;💾+@fn=0; $hdd"
-
-}
-
 mem(){
   mem=`free | awk '/Mem/ {printf "%d MiB/%d MiB\n", $3 / 1024.0, $2 / 1024.0 }'`
   echo -e "+@fn=2;💡+@fn=0; $mem"
@@ -35,8 +29,6 @@ cpu(){
 temp(){
   temp="$(sensors | awk '/Core 0/ {print $3}')"
   echo -e "+@fn=2;🌡️+@fn=0; $temp"
-
-
 }
 
 wtr() {
@@ -44,12 +36,7 @@ wtr() {
   weat1=$(curl 'wttr.in?format=%t')
   weat2=$(curl 'wttr.in?format=%p')
   echo -e "+@fn=2;$weat+@fn=0; $weat1 $weat2"
-}
 
-wth(){
-  SCRIPT_PATH=$HOME/.local/bin/statusbar/weather
-  wth=$("$SCRIPT_PATH")
-  echo -n
 }  
 
 SLEEP_SEC=0.5

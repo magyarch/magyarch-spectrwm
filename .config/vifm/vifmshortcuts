@@ -41,15 +41,12 @@ map cfb :e ~/.bashrc<CR>
 map cfa :e ~/.config/aliasrc<CR>
 map cfz :e ~/.zshrc<CR>
 map cfv :e ~/.config/nvim/init.vim<CR>
-map cfi :e ~/.config/i3/config<CR>
-map cfm :e ~/.config/mutt/muttrc<CR>
-map eb :e ~/Documents/LaTeX/uni.bib<CR>
-map cv :e ~/Documents/LaTeX/cv.tex<CR>
+map cfs :e ~/.spectrwm.conf<CR>
 map cfd :e ~/.Xdefaults<CR>
 map cfu :e ~/.config/newsboat/urls<CR>
 map cfn :e ~/.config/newsboat/config<CR>
 map cfmb :e ~/.config/ncmpcpp/bindings<CR>
 map cfmc :e ~/.config/ncmpcpp/config<CR>
 map er :e ~/Documents/referbib<CR>
-map cfB :e ~/.config/i3blocks/config<CR>
+map cfB :e ~/.config/spectrwm/baraction.sh<CR>
 map cfk :e ~/.config/sxhkd/sxhkdrc<CR>

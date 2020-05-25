@@ -17,15 +17,11 @@
 	/home/xeoncpu/
 	..
 1588989957
-'z
-	/home/xeoncpu/.config/vifm
-	..
-1588989957
 
 # Bookmarks:
 
 # TUI:
-al
+ar
 q0
 v2
 ov
@@ -34,6 +30,42 @@ l2
 r2
 
 # Left window history (oldest to newest):
+d/home/xeoncpu/.local/bin
+	tools
+5
+d/home/xeoncpu/.local/bin/tools
+	rotdir
+9
+d/home/xeoncpu/.local/bin
+	cmds
+1
+d/home/xeoncpu/.local/bin/cmds
+	winresize
+9
+d/home/xeoncpu/.local/bin
+	cmds
+1
+d/home/xeoncpu/.local
+	bin
+1
+d/home/xeoncpu
+	.config
+3
+d/home/xeoncpu/.config
+	neofetch
+12
+d/home/xeoncpu/.config/neofetch
+	config.conf
+1
+d/home/xeoncpu
+	..
+0
+d/home
+	xeoncpu
+1
+d/
+	usr
+17
 d/usr
 	share
 9
@@ -44,106 +76,118 @@ d/usr/share/backgrounds
 	magyarch
 1
 d/usr/share/backgrounds/magyarch
-	wallpaper.png
-1
-d/usr/share/backgrounds
-	magyarch
-1
-d/usr/share
-	backgrounds
-13
-d/usr
-	share
-9
-d/
-	home
-4
-d/home
-	xeoncpu
-1
-d/home/xeoncpu
-	.config
-2
-d/home/xeoncpu/.config
-	wallpaper.png
-23
-d/home/xeoncpu
-	Letöltések
-4
-d/home/xeoncpu/Letöltések
-	Magyarch-bspwm(1).pdf
-1
-d/home/xeoncpu
-	Letöltések
-4
-d/home/xeoncpu/Letöltések
-	baraction.sh
-2
-d/home/xeoncpu
-	Letöltések
-13
-d/home/xeoncpu/Letöltések
-	baz-bspwm
-1
-d/home/xeoncpu/Letöltések/baz-bspwm
-	.local
-4
-d/home/xeoncpu/Letöltések/baz-bspwm/.local
-	share
-2
-d/home/xeoncpu/Letöltések/baz-bspwm/.local/share
-	applications
-1
-d/home/xeoncpu/Letöltések/baz-bspwm/.local
-	share
-2
-d/home/xeoncpu/Letöltések/baz-bspwm
-	.local
-4
-d/home/xeoncpu/Letöltések
-	baz-bspwm
-1
-d/home/xeoncpu/Letöltések/baz-bspwm
-	.local
-4
-d/home/xeoncpu/Letöltések/baz-bspwm/.local
-	share
-2
-d/home/xeoncpu/Letöltések/baz-bspwm/.local/share
-	Magyarch-bspwm.pdf
-2
-
-# Right window history (oldest to newest):
-D/home/xeoncpu/Videók
-	The.Peanut.Butter.Falcon.2019.BDRip.x264-DRONES
-2
-D/home/xeoncpu/.config/vifm
-	colors
-1
-D/home/xeoncpu/.config/vifm/colors
-	luke.vifm
-1
-D/home/xeoncpu/Letöltések
-	installer
-11
-D/home/xeoncpu/.themes
-	MagyArch-dark
-1
-D/home/xeoncpu
-	.local
-4
-D/home/xeoncpu/.local
-	bin
-1
-D/home/xeoncpu
-	.config
-2
-D/home/xeoncpu/.config
-	wallpaper.png
-20
-D/home/xeoncpu
 	..
 0
+d/home/xeoncpu
+	Letöltések
+4
+d/home/xeoncpu/Letöltések
+	config.conf
+34
+d/home/xeoncpu
+	Letöltések
+4
+d/home/xeoncpu/Letöltések
+	config.conf
+34
+d/home/xeoncpu
+	.config
+3
+d/home/xeoncpu/.config
+	neofetch
+12
+d/home/xeoncpu/.config/neofetch
+	config.conf
+1
+d/home/xeoncpu
+	Letöltések
+4
+d/home/xeoncpu/Letöltések
+	config.conf
+30
+d/home/xeoncpu
+	Letöltések
+4
+
+# Right window history (oldest to newest):
+D/home/xeoncpu/Letöltések
+	[bHUm_#768021]Dawn_of_the_Dead_1978_REMASTERED_EXTENDED_1080p_BluRay_DTS_x264_HuN-BAYLEE.torrent
+3
+D/home/xeoncpu
+	Letöltések
+4
+D/home/xeoncpu/Letöltések
+	conky.conf
+5
+D/home/xeoncpu
+	Letöltések
+4
+D/home/xeoncpu/Letöltések
+	config (1).conf
+33
+D/home/xeoncpu
+	.config
+3
+D/home/xeoncpu/.config
+	neofetch
+12
+D/home/xeoncpu/.config/neofetch
+	config.conf
+1
+D/home/xeoncpu
+	.config
+3
+D/home/xeoncpu/.config
+	neofetch
+12
+D/home/xeoncpu/.config/neofetch
+	config.conf
+1
+D/home/xeoncpu/.config
+	neofetch
+12
+D/home/xeoncpu
+	Letöltések
+15
+D/home/xeoncpu/Letöltések
+	magyarch-i3
+1
+D/home/xeoncpu/Letöltések/magyarch-i3
+	.config
+1
+D/home/xeoncpu/Letöltések/magyarch-i3/.config
+	neofetch
+8
+D/home/xeoncpu/Letöltések/magyarch-i3/.config/neofetch
+	config.conf
+1
+D/home/xeoncpu/Letöltések/magyarch-i3/.config
+	neofetch
+8
+D/home/xeoncpu/Letöltések/magyarch-i3
+	.config
+1
+D/home/xeoncpu/Letöltések
+	magyarch-spectrwm
+2
+D/home/xeoncpu/Letöltések/magyarch-spectrwm
+	.config
+1
+D/home/xeoncpu/Letöltések/magyarch-spectrwm/.config
+	neofetch
+5
+D/home/xeoncpu/Letöltések/magyarch-spectrwm/.config/neofetch
+	config.conf
+1
+D/home/xeoncpu/Letöltések/magyarch-spectrwm/.config
+	neofetch
+5
+D/home/xeoncpu/Letöltések/magyarch-spectrwm
+	.config
+1
+D/home/xeoncpu/Letöltések
+	magyarch-spectrwm
+2
 
 # Command line history (oldest to newest):
 :mkdir Videos 
@@ -170,6 +214,7 @@ D/home/xeoncpu
 :colorscheme astrell
 :colorscheme Default
 :mkdir spectrwm
+:feh
 
 # Search history (oldest to newest):
 
@@ -190,11 +235,12 @@ pMagyArch-official-wall.png
 p.Xresourcesd
 p.Xresources
 p.spectrwm.conf
+pconfig.conf
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/xeoncpu/Letöltések/Magyarch-bspwm.pdf
+""/home/xeoncpu/.config/neofetch/config.conf
 
 # Directory stack (oldest to newest):
 
@@ -1491,3 +1537,29 @@ t/home/xeoncpu/.local/share/vifm/Trash/001_baraction.sh
 	/home/xeoncpu/Letöltések/baraction.sh
 t/home/xeoncpu/.local/share/vifm/Trash/000_Magyarchlinux_welcome.pdf
 	/home/xeoncpu/Letöltések/baz-bspwm/.local/share/Magyarchlinux_welcome.pdf
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-05-21-173931_1920x1080_scrot.png
+	/home/xeoncpu/2020-05-21-173931_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-05-21-210326_1920x1080_scrot.png
+	/home/xeoncpu/2020-05-21-210326_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-05-22-061238_1920x1080_scrot.png
+	/home/xeoncpu/2020-05-22-061238_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-05-22-073811_1920x1080_scrot.png
+	/home/xeoncpu/2020-05-22-073811_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-05-22-100521_1920x1080_scrot.png
+	/home/xeoncpu/2020-05-22-100521_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_Magyarch_Banner_4.0.mp4
+	/home/xeoncpu/Letöltések/Magyarch_Banner_4.0.mp4
+t/home/xeoncpu/.local/share/vifm/Trash/000_Magyarch_Banner_4.5.mp4
+	/home/xeoncpu/Letöltések/Magyarch_Banner_4.5.mp4
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-05-24-092326_1920x1080_scrot.png
+	/home/xeoncpu/2020-05-24-092326_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_2020-05-24-092400_1920x1080_scrot.png
+	/home/xeoncpu/2020-05-24-092400_1920x1080_scrot.png
+t/home/xeoncpu/.local/share/vifm/Trash/000_shots
+	/home/xeoncpu/Képek/shots
+t/home/xeoncpu/.local/share/vifm/Trash/000_rotdir
+	/home/xeoncpu/.local/bin/cmds/rotdir
+t/home/xeoncpu/.local/share/vifm/Trash/000_vifmimg
+	/home/xeoncpu/.local/bin/cmds/vifmimg
+t/home/xeoncpu/.local/share/vifm/Trash/000_config.conf
+	/home/xeoncpu/.config/neofetch/config.conf
