@@ -35,6 +35,7 @@ URxvt.scrollBar: false
 URxvt.scrollBar_right: false
 URxvt.urgentOnBell: true
 URxvt.depth: 24
+!!URxvt.transparent: true
 URxvt.iso14755: false
 
 !! Common Keybinds for Navigations

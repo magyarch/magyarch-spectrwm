@@ -8,7 +8,7 @@ dte(){
 
 mem(){
   mem=`free | awk '/Mem/ {printf "%d MiB/%d MiB\n", $3 / 1024.0, $2 / 1024.0 }'`
-  echo -e "+@fn=2;💡+@fn=0; $mem"
+  echo -e "+@fn=2;🧠+@fn=0; $mem"
 }
 
 vol(){
@@ -27,15 +27,21 @@ cpu(){
 }
 
 temp(){
-  temp="$(sensors | awk '/Core 0/ {print $3}')"
-  echo -e "+@fn=2;🌡️+@fn=0; $temp"
+  temp="$(sensors | awk '/^Tdie:/ {print $2}')"
+  echo -e "+@fn=2;☢️+@fn=0; $temp"
 }
 
-wtr() {
+wtr(){
   weat=$(curl 'wttr.in?format=%c')
   weat1=$(curl 'wttr.in?format=%t')
   weat2=$(curl 'wttr.in?format=%p')
-  echo -e "+@fn=2;$weat+@fn=0; $weat1 $weat2"
+  echo -e "+@fn=2;$weat+@fn=0; $weat1$weat2"
+}
+
+bat(){
+  bat="$(acpi -b | awk  '{print $0}')"
+  #bat=$(acpi -b | cut -d " " -f4 | sed 's/%//' | sed 's/,//' | sed 's/ //g')
+  echo -e "+@fn=2;🔋+@fn=0; $bat"
 
 }  
 
@@ -43,7 +49,7 @@ SLEEP_SEC=0.5
 
 while :; do
 
-  echo "$(cpu) | $(temp) | $(hdd) | $(mem) | $(wtr) | $(dte) | $(vol)"
+  echo "$(bat) | $(cpu) | $(temp) | $(mem) | $(wtr) | $(dte) | $(vol)"
 
   sleep $SLEEP_SEC # Update time every ten seconds
 done

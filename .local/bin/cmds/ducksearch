@@ -7,7 +7,7 @@ browser=${BROWSER:-firefox}
 
 pgrep -x dmenu && exit
 
-choice=$(echo "🦆" | dmenu -i -p "Search DuckDuckGo:") || exit 1
+choice=$(echo "🦆" | dmenu -i -p "Search DuckDuckGo:" -nb '#c3cdc8' -nf '#000000' -sb '#2e8b57' -fn 'JetBrains Mono Medium-11') || exit 1
 
 if [ "$choice" = "🦆"  ]; then
     $browser "https://duckduckgo.com"

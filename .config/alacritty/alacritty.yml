@@ -1,0 +1,85 @@
+# Window Customization
+window:
+  dimensions:
+    columns: 111
+    lines: 21
+  padding:
+    x: 5
+    y: 5
+  decorations: none
+scrolling:
+  history: 10000
+  multiplier: 3
+background_opacity: 0.95
+dynamic_title: true
+selection:
+  semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"
+
+# Font Customization
+font:
+  normal:
+    family: JetBrains Mono
+    style: Medium
+  bold:
+    family: JetBrains Mono
+    style: Bold
+  italic:
+    family: JetBrains Mono
+    style: Bold
+  size: 11
+  offset:
+    x: -1
+    y: -1
+  glyph_offset:
+    x: 0
+    y: 0
+  use_thin_strokes: false
+  debug:
+    persistent_logging: false
+draw_bold_text_with_bright_colors: false
+
+# Color Settings
+colors:
+  primary:
+    background: '#2f2b26'
+    foreground: '#ffffff'
+
+  normal:
+    black:   '#313539'
+    red:     '#c63737'
+    green:   '#2e8b57'
+    yellow:  '#f2e635'
+    blue:    '#314ad0'
+    magenta: '#b30ad0'
+    cyan:    '#32d0fc'
+    white:   '#ffffff'
+
+  selection:
+    text: '0x191919'
+    background: '0x78AAE8'
+    white:   '0x78AAE8'
+cursor:
+  style: Block
+  unfocused_hollow: true
+
+# When set to `true`, selected text will be copied to both the primary and
+  # the selection clipboard. Otherwise, it will only be copied to the selection
+  # clipboard.
+  save_to_clipboard: false
+
+# Live config reload (changes require restart)
+live_config_reload: true
+
+
+key_bindings:
+  - { key: N,        mods: Control,                 action: SpawnNewInstance }
+  - { key: V,        mods: Alt,                     action: Paste            }
+  - { key: C,        mods: Alt,                     action: Copy             }
+  - { key: Key0,     mods: Control,                 action: ResetFontSize    }
+  - { key: Equals,   mods: Control,                 action: IncreaseFontSize }
+  - { key: Add,      mods: Control,                 action: IncreaseFontSize }
+  - { key: Subtract, mods: Control,                 action: DecreaseFontSize }
+  - { key: Minus,    mods: Control,                 action: DecreaseFontSize }
+  - { key: L,        mods: Control,                 action: ClearLogNotice   }
+  - { key: L,        mods: Control,                 chars: "\x0c"            }
+
