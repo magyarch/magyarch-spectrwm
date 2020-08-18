@@ -6,4 +6,4 @@ WAL="$(ls $DIR/*.jpg | shuf -n1)"
 
 cat $WAL > ~/.config/wallpaper.png
 
-xwallpaper --output DP-1 --maximize  ~/.config/wallpaper.png
+xwallpaper --no-randr --maximize  ~/.config/wallpaper.png
