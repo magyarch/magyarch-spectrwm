@@ -29,7 +29,7 @@ case "$choice" in
 		choice="$HOME/.bashrc"
 	;;
 	spectrwm)
-		choice="$HOME/.spectrwm.conf"
+		choice="$HOME/.config/spectrwm/spectrwm.conf"
 	;;
 	profile)
 		choice="$HOME/.profile"

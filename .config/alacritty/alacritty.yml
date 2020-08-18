@@ -11,7 +11,7 @@ scrolling:
   history: 10000
   multiplier: 3
 background_opacity: 0.95
-dynamic_title: true
+window.dynamic_title: true
 selection:
   semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"
 

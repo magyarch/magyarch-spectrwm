@@ -13,8 +13,8 @@ HISTSIZE= HISTFILESIZE=
 # prompt customization
 #export PS1="\[$(tput bold)\]\[$(tput setaf 1)\][\[$(tput setaf 1)\]\u\[$(tput setaf 7)\]@\[$(tput setaf 7)\]\h \[$(tput setaf 2)\]\t\W\[$(tput setaf 2)\]]\[$(tput setaf 2)\]\\$ \[$(tput sgr0)\]"
 #export PS1="\u@\h [\$(date +%H:%M:%S)] ~ "
-export PS1="\t  -- \[$(tput setaf 4)\][How are you today $USER?]\[$(tput sgr0)\] -> \W # ";
-#export PS1="how are you? -->> # "
+export PS1="\[$(tput setaf 1)\]\t\[$(tput sgr0)\] -- \[$(tput setaf 7)$(tput smul)\][How are you today $USER?]\[$(tput rmul)\] -> \[$(tput setaf 2)\]\W # \[$(tput sgr0)\]";
+#export PS1="\[$(tput bold)$(tput setb)$(tput setaf 7)\]\u@\h: \w $ \[$(tput sgr0)\]";
 
 
 # Load shortcut aliases

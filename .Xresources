@@ -1,23 +1,16 @@
 !! Colorscheme
 
 *background:  #2f2b26
-*foreground:  #c3cdc8
-*color0:  #036947
-*color1:  #987351
-*color2:  #2e8b57
-*color3:  #afc246
-*color4:  #44b4cf
-*color5:  #8bb6ac
-*color6:  #36dbc0
-*color7:  #54ba98
-*color8:  #137957
-*color9:  #865b39
-*color10:  #09a573
-*color11:  #95aa30
-*color12:  #2593a6
-*color13:  #7c9c96
-*color14:  #29bdd1
-*color15:  #cbffff
+*foreground:  #ffffff
+ black:       #313539
+ red:         #c63737
+ green:       #2e8b57
+ yellow:      #f2e635
+ blue:        #314ad0
+ magenta:     #b30ad0
+ cyan:        #32d0fc
+ white:       #c3cdc8
+ yellow2:     #BE4713
 
 !! URxvt Appearance
 URxvt.font: xft:JetBrains Mono:pixelsize=13:antialias=true
@@ -35,7 +28,6 @@ URxvt.scrollBar: false
 URxvt.scrollBar_right: false
 URxvt.urgentOnBell: true
 URxvt.depth: 24
-!!URxvt.transparent: true
 URxvt.iso14755: false
 
 !! Common Keybinds for Navigations

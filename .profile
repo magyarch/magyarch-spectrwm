@@ -4,8 +4,8 @@
 # Adds `~/.scripts` and all subdirectories to $PATH
 export PATH="$PATH:$(du "$HOME/.local/bin/" | cut -f2 | tr '\n' ':' | sed 's/:*$//')"
 export EDITOR="nvim"
-export TERMINAL="urxvt"
-export BROWSER="firefox"
+export TERMINAL="alacritty"
+export BROWSER="brave"
 export READER="zathura"
 export FILE="vifm"
 export GTK2_RC_FILES="$HOME/.config/gtk-2.0/gtkrc-2.0"
