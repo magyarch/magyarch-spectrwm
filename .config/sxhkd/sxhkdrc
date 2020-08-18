@@ -1,0 +1,101 @@
+# MagyArch Linux spectrwm keybinds #
+#########################################
+
+# Terminal emulator
+super + {_,shift + } Return
+    {$TERMINAL, urxvt -g 100x30}
+
+# Dmenu and rofi(window switcher, application launcher)
+super + {_,shift +} d
+    {dmenu_run -nb '#c3cdc8' -nf '#000000' -sb '#2e8b57' -fn 'JetBrains Mono Medium-11' -p 'Search', rofi_run -r}
+
+# Chat client, gui filemanager
+super + {_,shift + } p
+    {wmctrl -s 1 && discord, wmctrl -s 9 && pcmanfm}
+
+# Default web browser firfox,and brave
+super + {_,shift + } w
+    {$BROWSER, firefox}
+
+# open gui text editor sublime
+super + {_,shift + } e
+    {spectrkeys.sh, wmctrl -s 2 && subl3}
+
+# Record and stream 
+super + {KP_Home,KP_End}
+    {screenrecord, live.sh}
+    
+# Kill recording and stream
+super + shift + x 
+    killall ffmpeg
+
+# On/off transparency, pavucontrol
+alt + {a,b}
+   {pavucontrol,toggleprogram "picom -b"}
+
+# Reload sxhkd
+super + Escape
+    pkill -USR1 -x sxhkd
+
+# Quit,reboot,shutdown
+super + {c,r}
+     {power,$TERMINAL -e $FILE}
+
+# MPD and ncmpcpp
+super + {n,s}
+     {$TERMINAL -e ncmpcpp,scrot '%m-%d-%Y-%R.png' -e 'mv $f ~/Képek/'}        
+    
+
+# Function keys #
+########################################
+
+# MagyArch help doc
+#super + F1
+ #   zathura $HOME/.local/bin/Magyarch-i3.pdf
+
+# Easy edit configuration files 
+super + F2
+    edconf.sh
+
+# Display select
+super + F3
+    displayselect
+
+# Take screenshot
+super + F4
+    maim pic-full-$(date '+%y%m%d-%H%M-%S').png
+    
+# Pick screenshot type
+super + F5
+    maimpick
+
+# Search with Duckduckgo
+super + F6
+    ducksearch
+
+# Mpv floating
+super + F7
+    mpv --geometry=40%+30+30 --title="mpvfloat" https://www.youtube.com/watch?v=8UU-FYBWgPg&list=PLIxoUSHenBEWmlvIhmItUdHmCnsmNlO2P
+
+# Wallpaper chenger
+super + F8
+    wal
+
+# Mount and umount a USB drive or Android device
+super + {F9,F10}
+    {dmenumount,dmenuumount}
+    
+# Decrease volume -5
+F10
+    amixer set Master 5%-
+
+# Increase volume +5
+F11
+    amixer set Master 5%+
+
+# Mute volume
+F12
+   amixer set Master toggle
+
+
+
