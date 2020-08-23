@@ -15,19 +15,19 @@ super + {_,shift + } p
 
 # Default web browser firfox,and brave
 super + {_,shift + } w
-    {$BROWSER, firefox}
+    {wmctrl -s 0 && $BROWSER, firefox}
 
 # open gui text editor sublime
 super + {_,shift + } e
     {spectrkeys.sh, wmctrl -s 2 && subl3}
 
-# Record and stream 
+# Record and stream
 super + {KP_Home,KP_End}
     {screenrecord, live.sh}
-    
+
 # Kill recording and stream
-super + shift + x 
-    killall ffmpeg
+super + shift + x
+    gpick && wmctrl -i -r 0x2800001 -e 0,100,50,320,250
 
 # On/off transparency, pavucontrol
 alt + {a,b}
@@ -43,8 +43,8 @@ super + {c,r}
 
 # MPD and ncmpcpp
 super + {n,s}
-     {$TERMINAL -e ncmpcpp,scrot '%m-%d-%Y-%R.png' -e 'mv $f ~/Képek/'}        
-    
+     {$TERMINAL -e ncmpcpp,scrot '%m-%d-%Y-%R.png' -e 'mv $f ~/Képek/'}
+
 
 # Function keys #
 ########################################
@@ -53,7 +53,7 @@ super + {n,s}
 #super + F1
  #   zathura $HOME/.local/bin/Magyarch-i3.pdf
 
-# Easy edit configuration files 
+# Easy edit configuration files
 super + F2
     edconf.sh
 
@@ -64,7 +64,7 @@ super + F3
 # Take screenshot
 super + F4
     maim pic-full-$(date '+%y%m%d-%H%M-%S').png
-    
+
 # Pick screenshot type
 super + F5
     maimpick
@@ -84,7 +84,7 @@ super + F8
 # Mount and umount a USB drive or Android device
 super + {F9,F10}
     {dmenumount,dmenuumount}
-    
+
 # Decrease volume -5
 F10
     amixer set Master 5%-

@@ -10,9 +10,9 @@ bash
 spectrwm
 profile
 vifm
-xinitrc
+Xresources
 barconf
-vim
+sxhkd
 xprofile
 quit")
 
@@ -37,14 +37,14 @@ case "$choice" in
 	vifm)
 		choice="$HOME/.config/vifm/vifmrc"
 	;;
-	xinitrc)
-		choice="$HOME/.xinitrc"
+	Xresources)
+		choice="$HOME/.Xresources"
 	;;
 	barconf)
 		choice="$HOME/.config/spectrwm/baraction.sh"
 	;;
-	vim)
-		choice="$HOME/.vimrc"
+	sxhkd)
+		choice="$HOME/.config/sxhkd/sxhkdrc"
 	;;
 	xprofile)
 		choice="$HOME/.xprofile"

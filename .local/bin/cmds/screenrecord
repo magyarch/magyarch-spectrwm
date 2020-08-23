@@ -91,7 +91,7 @@ askrecording() { \
 	}
 
 asktoend() { \
-	response=$(printf "No\\nYes" | dmenu -i -p "Recording still active. End recording?") &&
+	response=$(printf "No\\nYes" | dmenu -i -p "Recording still active. End recording?" -nb '#c3cdc8' -nf '#000000' -sb '#2e8b57' -fn 'JetBrains Mono Medium-11') &&
 	[ "$response" = "Yes" ] &&  killrecording
 	}
 
