@@ -1,6 +1,8 @@
 #!/usr/bin/env sh
 
 
+
+
 dte(){
   dte="$(date +"%Y.%m.%d | %H:%M")"
   echo -e "+@fn=2;📅+@fn=0; $dte"
@@ -14,6 +16,7 @@ mem(){
 vol(){
   vol=$(amixer get Master | awk -F'[]%[]' '/%/ {if ($7 == "off") { print "MM" } else { print $2 }}' | head -n 1)
   echo -e "+@fn=2;🔊+@fn=0; $vol%"
+
 }
 
 cpu(){
@@ -50,8 +53,8 @@ SLEEP_SEC=0.5
 
 while :; do
 
-  echo "$(bat) +@bg=4;  $(cpu)  +@bg=0;   +@bg=5;  $(temp)  +@bg=0;   +@bg=6;  $(mem)  +@bg=0;   +@bg=1;  $(wtr)  +@bg=0;   +@bg=3;  $(dte)  +@bg=0;   +@bg=2;  $(vol)  +@bg=0;"
-
-  sleep $SLEEP_SEC # Update time every ten seconds
+  echo "$(bat) +@bg=2;  $(cpu)  +@bg=0;   +@bg=5;  $(temp)  +@bg=0;   +@bg=6;  $(mem)  +@bg=0;   +@bg=1;  $(wtr)  +@bg=0;   +@bg=3;  $(dte)  +@bg=0;   +@bg=2;  $(vol)  +@bg=0;"
+  
+  sleep $SLEEP_SEC 
 done
 

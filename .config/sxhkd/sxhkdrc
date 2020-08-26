@@ -46,6 +46,7 @@ super + {n,s}
      {$TERMINAL -e ncmpcpp,scrot '%m-%d-%Y-%R.png' -e 'mv $f ~/Képek/'}
 
 
+
 # Function keys #
 ########################################
 

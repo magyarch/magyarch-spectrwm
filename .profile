@@ -28,6 +28,6 @@ echo "$0" | grep "bash$" >/dev/null && [ -f ~/.bashrc ] && source "$HOME/.bashrc
 
 
 # Start graphical server if bspwm not already running.
-[ "$(tty)" = "/dev/tty1" ] && ! pgrep -x pkill bspwm >/dev/null && exec startx
+#[ "$(tty)" = "/dev/tty1" ] && ! pgrep -x pkill bspwm >/dev/null && exec startx
 
 
