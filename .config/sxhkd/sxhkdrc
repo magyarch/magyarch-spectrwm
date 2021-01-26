@@ -27,7 +27,7 @@ super + {KP_Home,KP_End}
 
 # Kill recording and stream
 super + shift + x
-    gpick && wmctrl -i -r 0x2800001 -e 0,100,50,320,250
+    killall ffmpeg
 
 # On/off transparency, pavucontrol
 alt + {a,b}
@@ -42,8 +42,21 @@ super + {c,r}
      {power,$TERMINAL -e $FILE}
 
 # MPD and ncmpcpp
-super + {n,s}
+super + shift + {n,s}
      {$TERMINAL -e ncmpcpp,scrot '%m-%d-%Y-%R.png' -e 'mv $f ~/Képek/'}
+
+
+
+# Alt + keys #
+########################################
+
+# Increase volume +5
+alt + Up 
+    amixer set Master 5%+
+
+# Decrease volume -5
+alt + Down
+    amixer set Master 5%-         
 
 
 
@@ -86,17 +99,12 @@ super + F8
 super + {F9,F10}
     {dmenumount,dmenuumount}
 
-# Decrease volume -5
-F10
-    amixer set Master 5%-
-
-# Increase volume +5
-F11
-    amixer set Master 5%+
 
 # Mute volume
 F12
    amixer set Master toggle
+
+      
 
 
 

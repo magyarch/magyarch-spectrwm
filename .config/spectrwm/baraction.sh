@@ -53,7 +53,7 @@ SLEEP_SEC=0.5
 
 while :; do
 
-  echo "$(bat) +@bg=2;  $(cpu)  +@bg=0;   +@bg=5;  $(temp)  +@bg=0;   +@bg=6;  $(mem)  +@bg=0;   +@bg=1;  $(wtr)  +@bg=0;   +@bg=3;  $(dte)  +@bg=0;   +@bg=2;  $(vol)  +@bg=0;"
+  echo "$(bat)+@bg=2; $(cpu)+@bg=0;+@bg=5; $(temp)+@bg=0;+@bg=6; $(mem)+@bg=0;+@bg=1; $(wtr)+@bg=0;+@bg=3; $(dte)+@bg=0;+@bg=6; $(vol)+@bg=0;"
   
   sleep $SLEEP_SEC 
 done

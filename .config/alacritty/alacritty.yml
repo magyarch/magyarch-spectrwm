@@ -1,4 +1,6 @@
 # Window Customization
+env:
+  WINIT_HIDPI SCALE_FACTOR: "1.0"
 window:
   dimensions:
     columns: 111
@@ -10,7 +12,7 @@ window:
 scrolling:
   history: 10000
   multiplier: 3
-background_opacity: 0.95
+background_opacity: 0.90
 window.dynamic_title: true
 selection:
   semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"
@@ -42,7 +44,7 @@ draw_bold_text_with_bright_colors: false
 colors:
   primary:
     background: '#2f2b26'
-    foreground: '#ffffff'
+    foreground: '#c3cdc8'
 
   normal:
     black:   '#313539'
@@ -77,8 +79,8 @@ key_bindings:
   - { key: C,        mods: Alt,                     action: Copy             }
   - { key: Key0,     mods: Control,                 action: ResetFontSize    }
   - { key: Equals,   mods: Control,                 action: IncreaseFontSize }
-  - { key: Add,      mods: Control,                 action: IncreaseFontSize }
-  - { key: Subtract, mods: Control,                 action: DecreaseFontSize }
+  #  - { key: Add,      mods: Control,                 action: IncreaseFontSize }
+  #- { key: Subtract, mods: Control,                 action: DecreaseFontSize }
   - { key: Minus,    mods: Control,                 action: DecreaseFontSize }
   - { key: L,        mods: Control,                 action: ClearLogNotice   }
   - { key: L,        mods: Control,                 chars: "\x0c"            }

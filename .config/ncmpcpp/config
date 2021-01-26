@@ -1,0 +1,46 @@
+[mpd]
+mpd_music_dir = "~/Zenék/"
+ncmpcpp_directory = "~/.config/ncmpcpp/"
+mpd_host = "localhost"
+mpd_port = "6600"
+mpd_crossfade_time = "2"
+
+[visualizer]
+visualizer_data_source = "/tmp/mpd.fifo"
+visualizer_in_stereo = "no"
+visualizer_type = "spectrum"
+visualizer_output_name = "my_fifo"
+visualizer_look = "●┃"
+visualizer_color = "default"
+
+[header]
+header_visibility = "yes"
+header_window_color = "green"
+playlist_shorten_total_times = "no"
+volume_color = "default"
+state_line_color = "yellow"
+
+[playlist]
+playlist_display_mode = "classic"
+song_list_format = "{{%a - %t}|{%f}}{$R%l}"
+now_playing_prefix = "$b$5"
+now_playing_suffix = "$/b$9"
+
+[statusbar]
+progressbar_look = "─╼ "
+progressbar_color = "green"
+statusbar_visibility = "no"
+statusbar_color = "white"
+song_status_format = "{{%a{ - %t}}|{ - %f}{ - %b{ (%y)}}}"
+
+[library]
+song_library_format = "{{%a - %t}|{%f}}{$R%l}"
+empty_tag_color = "black"
+
+[global]
+colors_enabled = "yes"
+main_window_color = "default"
+centered_cursor = "yes"
+enable_window_title = "yes"
+external_editor = "vim"
+allow_for_physical_item_deletion = "yes"
