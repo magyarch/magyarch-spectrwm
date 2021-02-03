@@ -7,7 +7,7 @@ super + {_,shift + } Return
 
 # Dmenu and rofi(window switcher, application launcher)
 super + {_,shift +} d
-    {dmenu_run -nb '#c3cdc8' -nf '#000000' -sb '#2e8b57' -fn 'JetBrains Mono Medium-11' -p 'Search', rofi_run -r}
+    {dmenu_run -i -p 'Search' -nb '#2f2b26' -sb '#2e8b57' -fn 'JetBrains Mono Medium-11' -w '960' -h '24' -x '574' -y '48', rofi_run -r}
 
 # Chat client, gui filemanager
 super + {_,shift + } p
@@ -35,7 +35,7 @@ alt + {a,b}
 
 # Reload sxhkd
 super + Escape
-    pkill -USR1 -x sxhkd
+    pkill -USR1 -x sxhkd ;\notify-send "Sxhkd újratölt."
 
 # Quit,reboot,shutdown
 super + {c,r}
@@ -43,7 +43,7 @@ super + {c,r}
 
 # MPD and ncmpcpp
 super + shift + {n,s}
-     {$TERMINAL -e ncmpcpp,scrot '%m-%d-%Y-%R.png' -e 'mv $f ~/Képek/'}
+     {tdrop -ma -w 940 -h 540 -x 400 -y 400 urxvt -e ncmpcpp,scrot '%m-%d-%Y-%R.png' -e 'mv $f ~/Képek/'}
 
 
 
@@ -77,7 +77,7 @@ super + F3
 
 # Take screenshot
 super + F4
-    {maim ~/Képek/Képernyőképek/`date +%Y-%m-%d_%H:%M:%S`.png}
+    {maim ~/Képek/Képernyőképek/`date +%Y-%m-%d_%H:%M:%S`.png ;\notify-send "Képernyőkép készült."}
 
 # Pick screenshot type
 super + F5

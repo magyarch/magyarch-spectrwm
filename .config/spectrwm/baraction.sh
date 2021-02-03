@@ -1,7 +1,11 @@
 #!/usr/bin/env sh
+trap 'update' 5
 
-
-
+mpd(){
+  song="$(mpc current)"
+  status="$(mpc status | grep paused | awk '{print $2}')"
+  echo -e "$song"
+}
 
 dte(){
   dte="$(date +"%Y.%m.%d | %H:%M")"
@@ -22,7 +26,7 @@ vol(){
 cpu(){
   read cpu a b c previdle rest < /proc/stat
   prevtotal=$((a+b+c+previdle))
-  sleep 0.05
+  sleep 0.2
   read cpu a b c idle rest < /proc/stat
   total=$((a+b+c+idle))
   cpu=$((100*( (total-prevtotal) - (idle-previdle) ) / (total-prevtotal) ))
@@ -53,7 +57,7 @@ SLEEP_SEC=0.5
 
 while :; do
 
-  echo "+@fg=1;+@bg=2; $(cpu)+@bg=0;+@bg=5; $(temp)+@bg=0;+@bg=6; $(mem)+@bg=0;+@bg=1; $(wtr)+@bg=0;+@bg=3; $(dte)+@bg=0;+@bg=6; $(vol)+@bg=0;+@fg=0;"
+  echo "+@fg=1; +@bg=2; $(mpd) +@bg=2; $(cpu) +@bg=3; $(temp) +@bg=4; $(mem) +@bg=5; $(wtr) +@bg=6; $(dte) +@bg=6; $(vol)"
   
   sleep $SLEEP_SEC 
 done
