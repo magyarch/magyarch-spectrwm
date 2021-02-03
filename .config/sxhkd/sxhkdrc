@@ -104,6 +104,9 @@ super + {F9,F10}
 F12
    amixer set Master toggle
 
+F1
+   tdrop -ma -w 940 -h 540 -x 400 -y 400 urxvt 
+
       
 
 

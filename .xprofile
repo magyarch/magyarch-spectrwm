@@ -7,7 +7,7 @@ setxkbmap -option caps:super -variant altgr-intl && killall xcape 2>/dev/null ; 
 xsetroot -cursor_name left_ptr &
 xset r rate 500 30 &	# Speed xrate up
 unclutter &		# Remove mouse when idle
-picom --experimental-backends --inactive-opacity 1.00 --opacity-rule "80:class_g = 'URxvt'" --blur-background-exclude "class_g = 'slop'" -cCGfF -o 0.70 -O 0.028 -I 0.028 -t 0 -l 0 -r 7 -D2 -m 1.00 &
+picom --experimental-backends --shadow-exclude-reg '1920+0-0' --inactive-opacity 1.00 --opacity-rule "80:class_g = 'URxvt'" --blur-background-exclude "class_g = 'slop'" -cCGfF -o 0.70 -O 0.028 -I 0.028 -t 0 -l 0 -r 7 -D2 -m 1.00 &
 dunst &                 # dunst for notifications
 #blueberry-tray &
 #xrandr --output LVDS1 --mode 1366x768 --output HDMI1 --mode 1920x1080 --right-of LVDS1 &
