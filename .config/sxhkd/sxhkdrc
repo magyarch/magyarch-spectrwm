@@ -42,10 +42,11 @@ super + {c,r}
      {power,$TERMINAL -e $FILE}
 
 # MPD and ncmpcpp
-super + shift + {n,s}
+super + shift + {n,u}
      {tdrop -ma -w 940 -h 540 -x 400 -y 400 urxvt -e ncmpcpp,scrot '%m-%d-%Y-%R.png' -e 'mv $f ~/Képek/'}
 
-
+button2
+     xmenu.sh
 
 # Alt + keys #
 ########################################

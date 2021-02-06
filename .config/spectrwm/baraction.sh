@@ -4,22 +4,22 @@ trap 'update' 5
 mpd(){
   song="$(mpc current)"
   status="$(mpc status | grep paused | awk '{print $2}')"
-  echo -e "$song"
+  echo -e "+@fn=1;📀+@fn=0; $song"
 }
 
 dte(){
   dte="$(date +"%Y.%m.%d | %H:%M")"
-  echo -e "+@fn=2;📅+@fn=0; $dte"
+  echo -e "+@fn=1;📅+@fn=0; $dte"
 }
 
 mem(){
   mem=`free | awk '/Mem/ {printf "%d MiB/%d MiB\n", $3 / 1024.0, $2 / 1024.0 }'`
-  echo -e "+@fn=2;🧠+@fn=0; $mem"
+  echo -e "+@fn=1;🧠+@fn=0; $mem"
 }
 
 vol(){
   vol=$(amixer get Master | awk -F'[]%[]' '/%/ {if ($7 == "off") { print "MM" } else { print $2 }}' | head -n 1)
-  echo -e "+@fn=2;🔊+@fn=0; $vol%"
+  echo -e "+@fn=1;🔊+@fn=0; $vol%"
 
 }
 
@@ -30,20 +30,20 @@ cpu(){
   read cpu a b c idle rest < /proc/stat
   total=$((a+b+c+idle))
   cpu=$((100*( (total-prevtotal) - (idle-previdle) ) / (total-prevtotal) ))
-  echo -e "+@fn=2;🚨+@fn=0; $cpu%"
+  echo -e "+@fn=1;🚨+@fn=0; $cpu%"
 }
 
 temp(){
   #temp="$(sensors | awk '/^Tdie:/ {print $2}')"
   temp="$(sensors | awk '/Core 0/ {print $3}')"
-  echo -e "+@fn=2;🌡+@fn=0; $temp"
+  echo -e "+@fn=1;🌡+@fn=0; $temp"
 }
 
 wtr(){
   weat=$(curl 'wttr.in?format=%c')
   weat1=$(curl 'wttr.in?format=%t')
   weat2=$(curl 'wttr.in?format=%p')
-  echo -e "+@fn=2;$weat+@fn=0; $weat1"
+  echo -e "+@fn=1;$weat+@fn=0; $weat1"
 }
 
 #bat(){
@@ -57,7 +57,7 @@ SLEEP_SEC=0.5
 
 while :; do
 
-  echo "+@fg=1; +@bg=2; $(mpd) +@bg=2; $(cpu) +@bg=3; $(temp) +@bg=4; $(mem) +@bg=5; $(wtr) +@bg=6; $(dte) +@bg=6; $(vol)"
+  echo "+@fg=0; $(mpd) +@fg=1; +@bg=7; | $(cpu) | $(temp) | $(mem) | $(wtr) | $(dte) | $(vol)"
   
   sleep $SLEEP_SEC 
 done
