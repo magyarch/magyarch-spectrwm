@@ -5,7 +5,7 @@ cat <<EOF | xmenu | sh &
 	 Brave		brave
 	 Terminal	alacritty
 	 Files		pcmanfm
-	 Sublime Text	subl3		
+	 Sublime Text	subl3
 	 Steam		steam
 	 Video		mpv
 	 Music		urxvt -e ncmpcpp
@@ -13,7 +13,7 @@ cat <<EOF | xmenu | sh &
 	 Network	urxvt -e nmtui
 
  Screenshot
-	 Full		maim ~/Képek/Képernyőképek/`date +%Y-%m-%d_%H:%M:%S`.png 
+	 Full		maim ~/Képek/Képernyőképek/`date +%Y-%m-%d_%H:%M:%S`.png
 	 Pick		maim -s ~/Képek/Képernyőképek/`date +%y%m%d-%H%M-%S`.png
 
  System

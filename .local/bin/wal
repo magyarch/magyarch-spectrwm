@@ -4,6 +4,6 @@ DIR="$HOME/.local/bin/wallpapers/Future/"
 
 WAL="$(ls $DIR/*.jpg | shuf -n1)"
 
-cat $WAL > ~/.config/wallpaper.png
+cat $WAL > $DIR/current-wallpaper.jpg
 
-xwallpaper --no-randr --maximize  ~/.config/wallpaper.png
+feh --bg-scale $DIR/current-wallpaper.jpg
