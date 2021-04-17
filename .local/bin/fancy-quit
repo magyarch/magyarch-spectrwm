@@ -1,0 +1,7 @@
+#!/bin/sh
+
+wmctrl -l | awk '{print $1}' | while read APP; do
+wmctrl -i -c $APP || echo "$APP not killed"
+pkill spectrwm
+done
+
