@@ -1,21 +1,21 @@
 # MagyArch Linux spectrwm keybinds #
 #########################################
 
-# Terminal emulator
+# Floating terminal emulator
 super + {_,shift + } Return
     {$TERMINAL, urxvt -g 100x30}
 
 # Dmenu and rofi(window switcher, application launcher)
 super + {_,shift +} d
-    {dmenu_run -i -p 'Search' -nb '#2f2b26' -sb '#2e8b57' -fn 'JetBrains Mono Medium-11' -w '960' -h '24' -x '574' -y '48', rofi_run -r}
+    {dmenu_run -i -p 'Search' -nb '#1a1a1a' -sb '#2e8b57' -fn 'JetBrains Mono Medium-11' -w '960' -h '24' -x '574' -y '48', rofi_run -r}
 
 # Chat client, gui filemanager
 super + {_,shift + } p
     {wmctrl -s 1 && discord, wmctrl -s 9 && pcmanfm}
 
-# Default web browser firfox,and brave
+# Default web browser brave,tui browser
 super + {_,shift + } w
-    {wmctrl -s 0 && $BROWSER, firefox}
+    {wmctrl -s 0 && $BROWSER, rofi_run -b}
 
 # open gui text editor sublime
 super + {_,shift + } e
@@ -39,14 +39,14 @@ super + Escape
 
 # Quit,reboot,shutdown
 super + {c,r}
-     {power,$TERMINAL -e $FILE}
+     {rofi_run -l,$TERMINAL -e $FILE}
 
 # MPD and ncmpcpp
 super + shift + {n,u}
      {tdrop -ma -w 940 -h 540 -x 400 -y 400 urxvt -e ncmpcpp,scrot '%m-%d-%Y-%R.png' -e 'mv $f ~/Képek/'}
 
-button2
-     xmenu.sh
+#button2
+ #    xmenu.sh
 
 # Alt + keys #
 ########################################
@@ -59,7 +59,9 @@ alt + Up
 alt + Down
     amixer set Master 5%-         
 
-
+# windows switcher
+alt + w
+    rofi_run -w
 
 # Function keys #
 ########################################

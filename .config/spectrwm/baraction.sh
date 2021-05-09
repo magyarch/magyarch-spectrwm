@@ -8,7 +8,7 @@ mpd(){
 }
 
 dte(){
-  dte="$(date +"%Y.%m.%d | %H:%M")"
+  dte="$(date +"%Y.%m.%d %H:%M")"
   echo -e "+@fn=1;📅+@fn=0; $dte"
 }
 
@@ -57,7 +57,7 @@ SLEEP_SEC=0.5
 
 while :; do
 
-  echo "+@fg=0; $(mpd) +@fg=1; +@bg=7; | $(cpu) | $(temp) | $(mem) | $(wtr) | $(dte) | $(vol)"
+  echo "+@fg=2; $(mpd) +@bg=0; | $(cpu)  | $(temp) |  $(mem)  | $(dte)  | $(vol)"
   
   sleep $SLEEP_SEC 
 done

@@ -43,7 +43,7 @@ draw_bold_text_with_bright_colors: false
 # Color Settings
 colors:
   primary:
-    background: '#2f2b26'
+    background: '#1a1a1a'
     foreground: '#c3cdc8'
 
   normal:
