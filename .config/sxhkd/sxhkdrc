@@ -19,7 +19,7 @@ super + {_,shift + } w
 
 # open gui text editor sublime
 super + {_,shift + } e
-    {spectrkeys.sh, wmctrl -s 2 && subl3}
+    {spectrkeys.sh, wmctrl -s 2 && subl}
 
 # Record and stream
 super + {KP_Home,KP_End}
