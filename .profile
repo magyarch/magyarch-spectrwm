@@ -7,7 +7,7 @@ export EDITOR="nvim"
 export TERMINAL="alacritty"
 export BROWSER="brave"
 export READER="zathura"
-export FILE="vifm"
+export FILE="vifmrun"
 export GTK2_RC_FILES="$HOME/.config/gtk-2.0/gtkrc-2.0"
 
 # less/man colors
@@ -37,5 +37,6 @@ else
     export SCREENSHOTS="$(xdg-user-dir PICTURES)/screenshots"
     [ ! -d $SCREENSHOTS ] && mkdir -p $SCREENSHOTS >/dev/null 2>&1
 fi
+
 
 
