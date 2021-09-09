@@ -1,5 +1,7 @@
 "vim: filetype=vifm
 source ~/.config/vifm/vifmshortcuts
+"source ~/.config/vifm/favicons.vifm
+source ~/.config/vifm/icons
 
 set vicmd=$EDITOR
 set syscalls
@@ -14,6 +16,15 @@ set smartcase
 set nohlsearch
 set incsearch
 set suggestoptions=normal,visual,view,otherpane,keys,marks,registers
+set classify
+set slowfs=curlftpfs
+" set vifminfo=dhistory,savedirs,chistory,state,tui,shistory,phistory,fhistory,dirstack,registers,bookmarks,bmarks
+set viewcolumns=*{name}..,6{}.
+set timefmt=%m/%d/%Y\ %H:%M
+set statusline="%10A %10u:%g %8s[%8E] %18d   %{&sort} %= %a free"
+set rulerformat="%l/%S%[ +%x%]"
+set grepprg='rg --line-number %i %a %s'
+" colorscheme gruvbox
 colorscheme Default
 
 map <C-h> <C-w>h
@@ -43,6 +54,9 @@ nnoremap ,w :set wrap!<cr>
 nmap <space> tj
 nmap q ZQ
 
+" FZF integration
+command! FZFfind :set noquickview | :execute 'goto' fnameescape(term('fd -H | fzf --height 10 2>/dev/tty'))
+
 fileview */ tree %c -L 1 --dirsfirst
 fileview ../ tree %c -L 1 --dirsfirst
 fileviewer *.html w3m -dump %c
@@ -54,7 +68,7 @@ fileviewer *.odt odt2txt %c -
 filetype *.csv,*.xlsx sc-im %c
 fileviewer *.csv sed "s/,,,,/,,-,,/g;s/,,/ /g" %c | column -t | sed "s/ - /  /g" | cut -c -%pw
 
-filetype *.wav,*.mp3,*.flac,*.m4a,*.wma,*.ape,*.ac3,*.og[agx],*.spx,*.opus mpv --no-audio-display --input-ipc-server=/tmp/mpvsoc$(date +%%s) %c
+filetype *.wav,*.mp3,*.flac,*.m4a,*.wma,*.ape,*.ac3,*.og[agx],*.spx,*.opus ncmpcpp %f 2>/dev/null &,
 filextype *.pdf,*.ps,*.eps,*.ps.gz,*.djvu,*.epub zathura %f 2>/dev/null &,
 fileviewer *.pdf pdftotext -l 1 -nopgbrk %c -
 fileviewer *.avi,*.mp4,*.wmv,*.dat,*.3gp,*.ogv,*.mkv,*.mpg,*.mpeg,*.vob,*.fl[icv],*.m2v,*.mov,*.webm,*.ts,*.mts,*.m4v,*.qt,*.divx,*.as[fx],*mp3,*.flac file
@@ -65,7 +79,6 @@ filetype *.zip,*.rar,*.tar.gz ext %f
 
 fileviewer *.[1-8] man ./%c | col -b
 filetype *.[1-8] man ./%c
-
 
 fileviewer *.jpg,*.jpeg,*.png,*.ico vifmimg draw %px %py %pw %ph %c %pc vifmimg clear
 filextype *.bmp,*.jpg,*.jpeg,*.png,*.ico,*.gif,*.xpm  rotdir %f 2>/dev/null | sxiv -ia 2>/dev/null &

@@ -33,7 +33,7 @@ atleast=1920x1080
 
 # the menu command used when no query is provided
 sh_menu () {
-	printf "" | dmenu -p "search wallhaven:" -nb '#2f2b26' -nf '#c3cdc8' -sb '#2e8b57' -fn 'JetBrains Mono Nerd Font-12'
+	printf "" | dmenu -p "search wallhaven:" -nb '#1a1a1a' -nf '#c3cdc8' -sb '#2e8b57' -fn 'JetBrains Mono Nerd Font-12'
 	# ROFI: comment the previous line and uncomment the next line for rofi
 	# rofi -dmenu -l 0 -p "search wallpapers"
 }
