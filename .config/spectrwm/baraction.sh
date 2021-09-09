@@ -57,7 +57,8 @@ SLEEP_SEC=0.5
 
 while :; do
 
-  echo "+@fg=2; $(mpd) +@bg=0; | $(cpu)  | $(temp) |  $(mem)  | $(dte)  | $(vol)"
+  #echo "+@fg=2; $(mpd) +@bg=0; | $(cpu)  | $(temp) |  $(mem)  | $(dte)  | $(vol)"
+  echo "+@fg=2;+@fg=3;+@bg=2; $(mpd) +@fg=1;+@fg=3;+@bg=1; $(cpu) +@fg=2;+@fg=3;+@bg=2; $(mem) +@fg=1;+@fg=3;+@bg=1; $(vol) +@fg=2;+@fg=3;+@bg=2; $(date) +@fg=1;+@fg=3;+@bg=1;"
   
   sleep $SLEEP_SEC 
 done
