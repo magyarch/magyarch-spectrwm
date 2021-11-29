@@ -1,6 +1,5 @@
 configuration {
  modi: "window,drun";
- theme: "onedark";
  font: "JetBrains Mono Nerd Font 12";
  combi-modi: "window,drun";
  show-icons: true;
@@ -8,3 +7,5 @@ configuration {
  yoffset: 0;
  xoffset: 0;
  }
+
+ @theme "onedark"
