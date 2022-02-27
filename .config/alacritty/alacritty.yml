@@ -6,13 +6,13 @@ window:
     columns: 143
     lines: 33
   padding:
-    x: 5
-    y: 5
+    x: 3
+    y: 3
   decorations: none
 scrolling:
   history: 10000
   multiplier: 3
-background_opacity: 0.80
+window.opacity: 0.90
 window.dynamic_title: true
 selection:
   semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"
@@ -23,7 +23,7 @@ font:
     # family: mononoki Nerd Font
     # family: agave Nerd Font
     # family: Caskaydia Cove Nerd Font
-    family: JetBrains Mono Medium
+    family: JetBrains Mono Nerd Font
     # family: Hurmit Nerd Font Mono
     # family: DaddyTimeMono Nerd Font
     # family: Iosevka NF
