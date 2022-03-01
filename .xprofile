@@ -1,19 +1,19 @@
 #!/bin/sh
 
+~/.local/bin/statusbar/bar-toggle.sh &
 setbg &
 sxhkd &	# Set the background
 # Switch to US international with Caps as Mod/Escape
-setxkbmap -option caps:super -variant altgr-intl && killall xcape 2>/dev/null ; xcape -e 'Super_L=Escape' &
+#setxkbmap -option caps:super -variant altgr-intl && killall xcape 2>/dev/null ; xcape -e 'Super_L=Escape' &
 xsetroot -cursor_name left_ptr &
 xset r rate 500 30 &	# Speed xrate up
 xset s off -dpms &
 unclutter &		# Remove mouse when idle
-picom --experimental-backends --shadow-exclude-reg '1920+0-0' --inactive-opacity 1.00 --opacity-rule "80:class_g = 'URxvt'" --blur-background-exclude "class_g = 'slop'" -cCGfF -o 0.70 -O 0.028 -I 0.028 -t 0 -l 0 -r 7 -D2 -m 1.00 &
 dunst &                 # dunst for notifications
-#blueberry-tray &
 #xrandr --output LVDS1 --mode 1366x768 --output HDMI1 --mode 1920x1080 --right-of LVDS1 &
-bar-toggle.sh &
-~/.config/polybar/launch.sh &
+picom --experimental-backends --shadow-exclude-reg '1920+0-0' --inactive-opacity 1.00 --opacity-rule "80:class_g = 'URxvt'" --opacity-rule "90:class_g = 'Alacritty'" --blur-background-exclude "class_g = 'slop'" -cCGfF -o 0.70 -O 0.028 -I 0.028 -t 0 -l 0 -r 7 -D2 -m 1.00 &
+#~/.config/polybar/launch.sh &
+blueberry-tray &
 #xrandr --output HDMI1 --primary --mode 1920x1080 --output LVDS1 --off
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
 xwallpaper --no-randr --stretch ~/.config/wallpaper.png &

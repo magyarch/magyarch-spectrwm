@@ -3,7 +3,7 @@
 
 # Floating terminal emulator
 super + {_,shift + } Return
-    {$TERMINAL, urxvt -g 100x30}
+    {$TERMINAL, urxvt -g 120x30}
 
 # Dmenu and rofi(window switcher, application launcher)
 super + {_,shift +} d
@@ -19,7 +19,7 @@ super + {_,shift + } w
 
 # open gui text editor sublime
 super + {_,shift + } e
-    {spectrkeys.sh, wmctrl -s 2 && subl}
+    {spectrkeys.sh, subl}
 
 # Record and stream
 super + {KP_Home,KP_End}
