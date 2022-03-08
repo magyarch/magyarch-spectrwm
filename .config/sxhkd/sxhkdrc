@@ -7,7 +7,7 @@ super + {_,shift + } Return
 
 # Dmenu and rofi(window switcher, application launcher)
 super + {_,shift +} d
-    {dmenu_run -i -p 'Search' -nb '#1a1a1a' -sb '#2e8b57' -fn 'JetBrains Mono Medium-11' -w '960' -h '24' -x '574' -y '48', rofi_run -r}
+    {dmenu_run -i -p 'Search' -nb '#1a1a1a' -sb '#2e8b57' -fn 'JetBrains Mono Medium-11' -w '1260' -h '24' -x '1374' -y '98', rofi_run -r}
 
 # Chat client, gui filemanager
 super + {_,shift + } p
@@ -51,13 +51,13 @@ button2
 # Alt + keys #
 ########################################
 
-# Increase volume +5
+# Increase volume +1
 alt + Up 
-    amixer set Master 5%+
+    pamixer --allow-boost -i 1
 
-# Decrease volume -5
+# Decrease volume -1
 alt + Down
-    amixer set Master 5%-         
+    pamixer --allow-boost -d 1         
 
 # windows switcher
 alt + w

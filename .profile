@@ -4,11 +4,18 @@
 # Adds `~/.local/bin` and all subdirectories to $PATH
 export PATH="$PATH:$(du "$HOME/.local/bin/" | cut -f2 | tr '\n' ':' | sed 's/:*$//')"
 export EDITOR="nvim"
+export VISUAL="nvim"
 export TERMINAL="alacritty"
 export BROWSER="brave"
 export READER="zathura"
 export FILE="vifmrun"
 export GTK2_RC_FILES="$HOME/.config/gtk-2.0/gtkrc-2.0"
+export ZDOTDIR="$HOME/.config/zsh"
+export HISTFILE="$ZDOTDIR/.zsh_history"
+export HISTSIZE=10000
+export SAVEHIST=10000
+
+
 
 # less/man colors
 export LESS=-R

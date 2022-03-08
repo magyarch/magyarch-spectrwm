@@ -23,8 +23,18 @@ mem(){
 }
 
 vol(){
-  vol=$(amixer get Master | awk -F'[]%[]' '/%/ {if ($7 == "off") { print "MM" } else { print $2 }}' | head -n 1)
-  echo -e "+@fn=1;🔊+@fn=0; $vol%"
+  vol="$(pamixer --get-volume)"
+
+if [ "$vol" -gt "70" ]; then
+  icon="🔊"
+elif [ "$vol" -gt "30" ]; then
+  icon="🔉"
+elif [ "$vol" -gt "0" ]; then
+  icon="🔈"
+else
+        echo 🔇 && exit
+fi
+  echo -e "+@fn=1;🔊+@fn=0; $vol"
 
 }
 
@@ -52,13 +62,12 @@ wtr(){
 }
 
 #bat(){
- # bat="$(acpi -b | awk  '{print $0}')"
-  #bat=$(acpi -b | cut -d " " -f4 | sed 's/%//' | sed 's/,//' | sed 's/ //g')
-  #echo -e "+@fn=2;🔋+@fn=0; $bat"
+ #   bat=$(cat /sys/class/power_supply/*BAT*/capacity)
+#echo -e "+@fn=2;🔋+@fn=0; $bat"
 
 
 
-SLEEP_SEC=0.5
+SLEEP_SEC=0.25
 
 while :; do
 

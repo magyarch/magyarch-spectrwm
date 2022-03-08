@@ -1,5 +1,7 @@
 #!/bin/sh
 
+#xrandr --dpi 192
+#export GDK_SCALE=2
 ~/.local/bin/statusbar/bar-toggle.sh &
 setbg &
 sxhkd &	# Set the background
