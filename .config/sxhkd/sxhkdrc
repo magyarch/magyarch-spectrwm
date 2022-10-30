@@ -11,7 +11,7 @@ super + {_,shift +} d
 
 # Chat client, gui filemanager
 super + {_,shift + } p
-    {wmctrl -s 1 && discord, wmctrl -s 9 && pcmanfm}
+    {wmctrl -s 1 && discord,xdotool set_desktop 1 && pcmanfm}
 
 # Default web browser brave,tui browser
 super + {_,shift + } w
