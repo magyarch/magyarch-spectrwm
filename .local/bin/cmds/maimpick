@@ -1,5 +1,5 @@
 #!/bin/sh
-case "$(printf "a selected area\\ncurrent window\\nfull screen\\na selected area (copy)\\ncurrent window (copy)\\nfull screen (copy)" | dmenu -l 6 -i -p "Screenshot which area?" -nb '#c3cdc8' -nf '#000000' -sb '#2e8b57' -fn 'JetBrains Mono Medium-11')" in
+case "$(printf "a selected area\\ncurrent window\\nfull screen\\na selected area (copy)\\ncurrent window (copy)\\nfull screen (copy)" | dmenu -i -c -g 1 -l 10 -nb '#000000' -nf '#c3cdc8' -sb '#947cc3' -fn 'JetBrains Mono Nerd Font-12')" in
 	"a selected area") maim -s pic-selected-"$(date '+%y%m%d-%H%M-%S').png" ;;
 	"current window") maim -i "$(xdotool getactivewindow)" pic-window-"$(date '+%y%m%d-%H%M-%S').png" ;;
 	"full screen") maim pic-full-"$(date '+%y%m%d-%H%M-%S').png" ;;

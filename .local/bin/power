@@ -1,6 +1,6 @@
 #!/bin/sh
 
-DIALOG_RESULT=$(echo -e 'Quit spectrwm\nHibernate\nReboot\nPoweroff' | rofi -dmenu -i -p "SYSTEM" -hide-scrollbar -tokenize -lines 7 -eh 1 -width 25 -location 0 -xoffset 0 -yoffset 0 -padding 20 -disable-history)
+DIALOG_RESULT=$(echo -e 'Quit spectrwm\nHibernate\nReboot\nPoweroff' | dmenu -i -c -g 1 -l 10 -nb '#000000' -nf '#c3cdc8' -sb '#947cc3' -fn 'JetBrains Mono Nerd Font-12' -p "SYSTEM" )
 
 case $DIALOG_RESULT in
         "Quit spectrwm" ) pkill spectrwm ;;

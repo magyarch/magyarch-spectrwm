@@ -50,8 +50,8 @@ cpu(){
 }
 
 temp(){
-  #temp="$(sensors | awk '/^Tdie:/ {print $2}')"
-  temp="$(sensors | awk '/Core 0/ {print $3}')"
+  temp="$(sensors | awk '/^Tctl:/ {print $2}')"
+  #temp="$(sensors | awk '/Core 0/ {print $3}')"
   echo -e "+@fn=1;🌡+@fn=0; $temp"
 }
 
@@ -68,12 +68,12 @@ wtr(){
 
 
 
-SLEEP_SEC=0.25
+SLEEP_SEC=1
 
 while :; do
 
   #echo "+@fg=2; $(mpd) +@bg=0; | $(cpu)  | $(temp) |  $(mem)  | $(dte)  | $(vol)"
-  echo "+@fg=2;+@fg=3;+@bg=2; $(mpd) +@fg=1;+@fg=3;+@bg=1; $(cpu) +@fg=2;+@fg=3;+@bg=2; $(mem) +@fg=1;+@fg=3;+@bg=1; $(vol) +@fg=2;+@fg=3;+@bg=2; $(dte) +@fg=1;+@fg=3;+@bg=1; $(dte2)"
+  echo "+@fg=2;+@fg=3;+@bg=2; $(temp) +@fg=1;+@fg=3;+@bg=1; $(cpu) +@fg=2;+@fg=3;+@bg=2; $(mem) +@fg=1;+@fg=3;+@bg=1; $(vol) +@fg=2;+@fg=3;+@bg=2; $(dte) +@fg=1;+@fg=3;+@bg=1; $(dte2)"
   
   sleep $SLEEP_SEC 
 done
