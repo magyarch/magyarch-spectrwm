@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+
+case "$1" in
+
+	scratchpad) 		
+        entry="alacritty -t scratchpad" 		
+        ;;
+	FM) 		
+        entry="alacritty -t FM -e vifm"		
+        ;;
+    Mail)
+        entry="alacritty -t Mail -e neomutt"
+        ;;
+    Music)
+        entry="alacritty -t Music -e ncmpcpp"
+        ;;
+    Todo)
+        entry="alacritty -t Todo -e edconf.sh"
+        ;;
+    launchkeys)
+        entry="alacritty -t launchkeys -e spectrwm-bindings.sh"
+esac
+
+xdotool search --onlyvisible --name "$1" windowunmap \
+    || xdotool search --name "$1" windowmap \
+    || $entry &
+

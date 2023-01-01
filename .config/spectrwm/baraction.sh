@@ -68,7 +68,7 @@ wtr(){
 
 
 
-SLEEP_SEC=1
+SLEEP_SEC=0.5
 
 while :; do
 

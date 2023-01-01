@@ -3,15 +3,15 @@
 
 # Floating terminal emulator
 super + {_,shift + } Return
-    {$TERMINAL, urxvt -g 120x30}
+    {$TERMINAL, scratch scratchpad}
 
 # Dmenu and rofi(window switcher, application launcher)
 super + {_,shift +} d
-    {dmenu_run -i -p 'Search' -nb '#1a1a1a' -sb '#2e8b57' -fn 'JetBrains Mono Medium-11' -w '1260' -h '24' -x '1374' -y '98', rofi_run -r}
+    {dmenu_run -i -c -g 1 -l 15 -nb '#000000' -sb '#947cc3' -fn 'JetBrains Mono Medium Nerd-12' -p 'Search', rofi_run -r}
 
 # Chat client, gui filemanager
 super + {_,shift + } p
-    {wmctrl -s 1 && discord,xdotool set_desktop 1 && pcmanfm}
+    {wmctrl -s 1 && discord,xdotool set_desktop 7 && pcmanfm}
 
 # Default web browser brave,tui browser
 super + {_,shift + } w
@@ -19,7 +19,7 @@ super + {_,shift + } w
 
 # open gui text editor sublime
 super + {_,shift + } e
-    {spectrkeys.sh, subl}
+    {scratch launchkeys, subl}
 
 # Record and stream
 super + {KP_Home,KP_End}
@@ -39,11 +39,11 @@ super + Escape
 
 # Quit,reboot,shutdown
 super + {c,r}
-     {rofi_run -l,$TERMINAL -e $FILE}
+     {rofi_run -l,scratch FM}
 
 # MPD and ncmpcpp
 super + shift + {n,u}
-     {tdrop -ma -w 940 -h 540 -x 400 -y 400 urxvt -e ncmpcpp,scrot '%m-%d-%Y-%R.png' -e 'mv $f ~/Képek/'}
+     {scratch Music, skeys.sh}
 
 button2
      xmenu.sh
@@ -51,13 +51,13 @@ button2
 # Alt + keys #
 ########################################
 
-# Increase volume +1
+# Increase volume +5
 alt + Up 
-    pamixer --allow-boost -i 1
+    pamixer --allow-boost -i 5
 
-# Decrease volume -1
+# Decrease volume -5
 alt + Down
-    pamixer --allow-boost -d 1         
+    pamixer --allow-boost -d 5         
 
 # windows switcher
 alt + w
@@ -106,9 +106,6 @@ super + {F9,F10}
 # Mute volume
 F12
    amixer set Master toggle
-
-F1
-   tdrop -ma -w 940 -h 540 -x 400 -y 400 urxvt 
 
       
 

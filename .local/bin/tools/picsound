@@ -1,0 +1,14 @@
+#!/bin/sh
+
+SRL="$(echo -e "Ex\nIn\nCancel" | dmenu -i -c -g 1 -l 3 -nb '#000000' -sb '#2e8b57' -fn 'JetBrains Mono Nerd Font-12' -p  'Choose theme:')"
+
+case $SRL in
+    Ex)
+        pactl set-default-sink alsa_output.usb-Burr-Brown_from_TI_USB_Audio_CODEC-00.analog-stereo-output
+        ;;
+    In)
+        pactl set-default-sink alsa_output.pci-0000_00_1f.3.analog-stereo
+        ;;
+    *)
+        ;;
+esac

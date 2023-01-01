@@ -1,7 +1,7 @@
 #!/bin/sh
 
-#xrandr --dpi 156
-#export GDK_SCALE=2
+xrandr --dpi 156
+export GDK_SCALE=2
 setbg &
 sxhkd &	# Set the background
 # Switch to US international with Caps as Mod/Escape
@@ -20,7 +20,7 @@ picom --config ~/.config/picom.conf &
 xwallpaper --zoom --stretch ~/.config/wallpaper.png &
 #zathura $HOME/.local/share/Magyarch-spectrwm.pdf &
 sleep 2s && notify-send 'Nyomja meg a Super+F1-et a használati utasításért.' -t 10000 &
-#~/.local/bin/statusbar/bar-toggle.sh &
+~/.local/bin/statusbar/bar-toggle.sh &
 udiskie &
 #-------------------------------------------------------------
 

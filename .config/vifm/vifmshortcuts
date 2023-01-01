@@ -46,5 +46,5 @@ map cfu :e ~/.config/newsboat/urls<CR>
 map cfn :e ~/.config/newsboat/config<CR>
 map cfmb :e ~/.config/ncmpcpp/bindings<CR>
 map cfmc :e ~/.config/ncmpcpp/config<CR>
-map cfh :e ~/.config/herbstluftwm/autostart<CR>
+map cfh :e ~/.config/spectrwm/spectrwm.conf<CR>
 map cfk :e ~/.config/sxhkd/sxhkdrc<CR>

@@ -25,7 +25,7 @@ set statusline="%10A %10u:%g %8s[%8E] %18d   %{&sort} %= %a free"
 set rulerformat="%l/%S%[ +%x%]"
 set grepprg='rg --line-number %i %a %s'
 " colorscheme gruvbox
-colorscheme Default
+colorscheme dracula
 
 map <C-h> <C-w>h
 map <C-j> <C-w>j
@@ -37,7 +37,7 @@ map <C-v> <C-w>v
 
 map R :restart<CR>
 map x :!sxiv -ft * 2>/dev/null &<CR>
-nnoremap o :file &<cr>
+nnoremap o :!nvim %f<cr>
 map E :!$EDITOR %f<CR>
 map mkd :mkdir<space>
 map bg :!setbg %f &<CR>
@@ -56,6 +56,8 @@ nmap q ZQ
 
 " FZF integration
 command! FZFfind :set noquickview | :execute 'goto' fnameescape(term('fd -H | fzf --height 10 2>/dev/tty'))
+command! diff nvim -d %f %F
+command! reload :write | restart
 
 fileview */ tree %c -L 1 --dirsfirst
 fileview ../ tree %c -L 1 --dirsfirst
