@@ -28,10 +28,11 @@
 
 (defwindow calendar
 	:geometry (geometry :x "30px"
-			    :y "75px"
+			    :y "30px"
 			    :width "275px"
 			    :height "190px")
 	:stacking "fg"
+	:wm-ignore true
 (cal))
 
 (defwidget powermenucontent []
@@ -139,15 +140,16 @@
 	(box :class "imagebox"
 		 (transform :scale_x "50px"
 			 (image :class "image"
-					:path "/home/xeoncpu/Pictures/picture.png"
-					:image-width 140
-					:image-height 140))))
+					:path "/home/xeoncpu/.local/bin/wallpapers/Future/fefe.jpg"
+					:image-width 175
+					:image-height 145))))
 
 (defwindow image
-	:geometry (geometry :x "168px"
-						:y "410px"
-						:width "140px"
-						:height "140px")
+	:geometry (geometry :x "-8px"
+						:y "60px"
+						:width "196px"
+						:height "145px"
+					    :anchor "top right")
 	:wm-ignore true
 (imagewidget))
 

@@ -1,4 +1,5 @@
 #!/bin/sh
 
-xdotool key super+b
-polybar-msg cmd toggle
+sleep 2
+xdotool key Super_L+b bar_toggle
+

@@ -52,7 +52,7 @@ font:
     # family: Hack NF
     # family: SpaceMono NF
     style: Regular
-  size: 11
+  size: 12
   offset:
     x: -1
     y: -1
@@ -69,29 +69,56 @@ colors:
   name: Vacuous 2
   author: hal
   primary:
-    background: "#1a1a1a"
-    foreground: "#c3cdc8"
+    background: '#282a36'
+    foreground: '#f8f8f2'
+    bright_foreground: '#ffffff'
   cursor:
-    text: "#101010"
-    cursor: "#d2c5bc"
+    text: CellBackground
+    cursor: CellForeground
+  vi_mode_cursor:
+    text: CellBackground
+    cursor: CellForeground
+  search:
+    matches:
+      foreground: '#44475a'
+      background: '#50fa7b'
+    focused_match:
+      foreground: '#44475a'
+      background: '#ffb86c'
+  footer_bar:
+    background: '#282a36'
+    foreground: '#f8f8f2'
+  hints:
+    start:
+      foreground: '#282a36'
+      background: '#f1fa8c'
+    end:
+      foreground: '#f1fa8c'
+      background: '#282a36'
+  line_indicator:
+    foreground: None
+    background: None
+  selection:
+    text: CellForeground
+    background: '#44475a'
   normal:
-    black:   '#313539'
-    red:     '#c63737'
-    green:   '#2e8b57'
-    yellow:  '#f2e635'
-    blue:    '#314ad0'
-    magenta: '#b30ad0'
-    cyan:    '#32d0fc'
-    white:   '#ffffff'
+    black: '#21222c'
+    red: '#ff5555'
+    green: '#50fa7b'
+    yellow: '#f1fa8c'
+    blue: '#bd93f9'
+    magenta: '#ff79c6'
+    cyan: '#8be9fd'
+    white: '#f8f8f2'
   bright:
-    black: "#606060"
-    red: "#d14548"
-    green: "#a7b79a"
-    yellow: "#fae3a0"
-    blue: "#7491a1"
-    magenta: "#87314e"
-    cyan: "#0f829d"
-    white: "#fff0f0"
+    black: '#6272a4'
+    red: '#ff6e6e'
+    green: '#69ff94'
+    yellow: '#ffffa5'
+    blue: '#d6acff'
+    magenta: '#ff92df'
+    cyan: '#a4ffff'
+    white: '#ffffff'
 cursor:
   style: Block
   unfocused_hollow: true

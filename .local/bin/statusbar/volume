@@ -1,27 +1,30 @@
 #!/bin/sh
 
+# Prints the current volume or 🔇 if muted.
+
 case $BLOCK_BUTTON in
-	1) setsid "$TERMINAL" -e alsamixer & ;;
-	2) amixer sset Master toggle ;;
-	4) amixer sset Master 5%+ >/dev/null 2>/dev/null ;;
-	5) amixer sset Master 5%- >/dev/null 2>/dev/null ;;
-	3) pgrep -x dunst >/dev/null && notify-send "📢 Volume module" "\- Shows volume 🔊, 🔇 if muted.
+	1) setsid -f "$TERMINAL" -e pulsemixer ;;
+	2) pamixer -t ;;
+	4) pamixer --allow-boost -i 10 ;;
+	5) pamixer --allow-boost -d 10 ;;
+	3) notify-send "📢 Volume module" "\- Shows volume 🔊, 🔇 if muted.
 - Middle click to mute.
-- Scroll to change."
+- Scroll to change." ;;
+	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
 esac
 
-volstat="$(amixer get Master)"
+[ $(pamixer --get-mute) = true ] && echo 🔇 && exit
 
-echo "$volstat" | grep "\[off\]" >/dev/null && printf "🔇\\n" && exit
-
-vol=$(echo "$volstat" | grep -o "\[[0-9]\+%\]" | sed 's/[^0-9]*//g')
+vol="$(pamixer --get-volume)"
 
 if [ "$vol" -gt "70" ]; then
 	icon="🔊"
-elif [ "$vol" -lt "30" ]; then
+elif [ "$vol" -gt "30" ]; then
+	icon="🔉"
+elif [ "$vol" -gt "0" ]; then
 	icon="🔈"
 else
-	icon="🔉"
+        echo 🔇 && exit
 fi
 
-printf "%s %s%%\\n" "$icon" "$vol"
+echo "$icon$vol%"

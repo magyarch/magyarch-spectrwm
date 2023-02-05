@@ -1,0 +1,14 @@
+#!/usr/bin/env sh
+
+case "${1%%:*}" in
+    http|https|*.pdf)
+        exec firefox --new-tab "$1"
+        ;;
+    mailto)
+        exec claws-mail --compose "$1"
+        ;;
+    *)
+        exec /usr/bin/xdg-open "$@"
+        ;;
+esac
+

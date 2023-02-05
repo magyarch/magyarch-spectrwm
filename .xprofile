@@ -1,6 +1,6 @@
 #!/bin/sh
 
-xrandr --dpi 156
+xrandr --dpi 192
 export GDK_SCALE=2
 setbg &
 sxhkd &	# Set the background
@@ -17,11 +17,11 @@ picom --config ~/.config/picom.conf &
 #blueberry-tray &
 #xrandr --output HDMI1 --primary --mode 1920x1080 --output LVDS1 --off
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
-xwallpaper --zoom --stretch ~/.config/wallpaper.png &
+#xwallpaper --zoom --stretch ~/.config/wallpaper.png &
 #zathura $HOME/.local/share/Magyarch-spectrwm.pdf &
-sleep 2s && notify-send 'Nyomja meg a Super+F1-et a használati utasításért.' -t 10000 &
-~/.local/bin/statusbar/bar-toggle.sh &
-udiskie &
+#sleep 2s && notify-send 'Nyomja meg a Super+F1-et a használati utasításért.' -t 10000 &
+#~/.local/bin/statusbar/bar-toggle.sh &
+#udiskie &
 #-------------------------------------------------------------
 
 

@@ -1,6 +1,6 @@
 #!/bin/sh
 
-DIALOG_RESULT=$(echo -e 'Quit spectrwm\nHibernate\nReboot\nPoweroff' | dmenu -i -c -g 1 -l 10 -nb '#000000' -nf '#c3cdc8' -sb '#947cc3' -fn 'JetBrains Mono Nerd Font-12' -p "SYSTEM" )
+DIALOG_RESULT=$(echo -e 'Quit spectrwm\nHibernate\nReboot\nPoweroff' | dmenu -i -c -g 1 -l 10 -nb '#282a36' -nf '#c3cdc8' -sb '#947cc3' -fn 'JetBrains Mono Nerd Font-12' -p "SYSTEM" )
 
 case $DIALOG_RESULT in
         "Quit spectrwm" ) pkill spectrwm ;;

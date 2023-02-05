@@ -7,7 +7,7 @@ super + {_,shift + } Return
 
 # Dmenu and rofi(window switcher, application launcher)
 super + {_,shift +} d
-    {dmenu_run -i -c -g 1 -l 15 -nb '#000000' -sb '#947cc3' -fn 'JetBrains Mono Medium Nerd-12' -p 'Search', rofi_run -r}
+    {dmenu_run -i -c -g 1 -l 15 -nb '#282a36' -sb '#947cc3' -fn 'JetBrains Mono Nerd Font:size=12' -p 'Search', rofi_run -r}
 
 # Chat client, gui filemanager
 super + {_,shift + } p
@@ -19,7 +19,7 @@ super + {_,shift + } w
 
 # open gui text editor sublime
 super + {_,shift + } e
-    {scratch launchkeys, subl}
+    {scratch launchkeys, code}
 
 # Record and stream
 super + {KP_Home,KP_End}
@@ -30,8 +30,8 @@ super + shift + x
     killall ffmpeg
 
 # On/off transparency, pavucontrol
-alt + {a,b}
-   {pavucontrol,toggleprogram "picom -b"}
+alt + {_,shift + }b
+   {polybar-msg cmd toggle, toggleprogram "picom -b"}
 
 # Reload sxhkd
 super + Escape
@@ -39,14 +39,14 @@ super + Escape
 
 # Quit,reboot,shutdown
 super + {c,r}
-     {rofi_run -l,scratch FM}
+     {rofi_run -l,$TERMINAL -e vifm}
 
 # MPD and ncmpcpp
 super + shift + {n,u}
      {scratch Music, skeys.sh}
 
-button2
-     xmenu.sh
+#button2
+ #    polybar-msg cmd toggle
 
 # Alt + keys #
 ########################################
