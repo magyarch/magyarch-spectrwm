@@ -31,7 +31,7 @@ super + shift + x
 
 # On/off transparency, pavucontrol
 alt + {_,shift + }b
-   {polybar-msg cmd toggle, toggleprogram "picom -b"}
+   {polybar-msg cmd toggle && bar_toggle, toggleprogram "picom -b"}
 
 # Reload sxhkd
 super + Escape
