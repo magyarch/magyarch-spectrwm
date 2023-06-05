@@ -40,13 +40,9 @@ echo -e "+@fn=1;$icon+@fn=0; $vol%"
 }
 
 cpu(){
-  read cpu a b c previdle rest < /proc/stat
-  prevtotal=$((a+b+c+previdle))
-  sleep 0.2
-  read cpu a b c idle rest < /proc/stat
-  total=$((a+b+c+idle))
-  cpu=$((100*( (total-prevtotal) - (idle-previdle) ) / (total-prevtotal) ))
-  echo -e "+@fn=1;🚨+@fn=0; $cpu%"
+  cpu_freq=$(awk '{printf("%.2f GHz", $1/1000000)}' /sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq)
+ echo -e " R7 5800X $cpu_freq "
+
 }
 
 temp(){

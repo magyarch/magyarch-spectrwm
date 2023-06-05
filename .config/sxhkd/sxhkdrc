@@ -7,7 +7,7 @@ super + {_,shift + } Return
 
 # Dmenu and rofi(window switcher, application launcher)
 super + {_,shift +} d
-    {dmenu_run -i -c -g 1 -l 15 -nb '#282a36' -sb '#947cc3' -fn 'JetBrains Mono Nerd Font:size=12' -p 'Search', rofi_run -r}
+    {dmenu_run, rofi -show window}
 
 # Chat client, gui filemanager
 super + {_,shift + } p
@@ -52,12 +52,12 @@ super + shift + {n,u}
 ########################################
 
 # Increase volume +5
-alt + Up 
+alt + Up
     pamixer --allow-boost -i 5
 
 # Decrease volume -5
 alt + Down
-    pamixer --allow-boost -d 5         
+    pamixer --allow-boost -d 5
 
 # windows switcher
 alt + w
@@ -107,7 +107,7 @@ super + {F9,F10}
 F12
    amixer set Master toggle
 
-      
+
 
 
 
