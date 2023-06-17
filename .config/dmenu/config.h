@@ -6,15 +6,15 @@ static int centered = 1;                    /* -c option; centers dmenu on scree
 static int min_width = 600;                    /* minimum width when centered */
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-	"MesloLGS Nerd Font:size=12"
+	"JetBrains Mono Nerd Font:size=12"
 };
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
 static const char *colors[SchemeLast][2] = {
 	/*     fg         bg       */
         [SchemeNorm] = { "#bbbbbb", "#282a36" },
-	[SchemeSel] = { "#b5bd68", "#947cc3" },
-    [SchemeSelHighlight] = { "#947cc3", "#282a36" },
-    [SchemeNormHighlight] = { "#947cc3", "#222222" },
+	[SchemeSel] = { "#b5bd68", "#6272a4" },
+    [SchemeSelHighlight] = { "#6272a4", "#282a36" },
+    [SchemeNormHighlight] = { "#6272a4", "#222222" },
 	[SchemeOut] = { "#000000", "#00ffff" },
 
 
@@ -33,4 +33,4 @@ static unsigned int min_lineheight = 8;
 static const char worddelimiters[] = " ";
 
 /* Size of the window border */
-static const unsigned int border_width = 8;
+static const unsigned int border_width = 5;

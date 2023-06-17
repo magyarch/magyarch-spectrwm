@@ -7,7 +7,7 @@ configuration {
  threads: 0;
  yoffset: 0;
  xoffset: 0;
- dpi: 144;
+ dpi: 192;
  }
 
  @theme "onedark"
