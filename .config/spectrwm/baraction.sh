@@ -15,7 +15,7 @@ dte(){
 dte2(){
   dte2="$(date +"%H:%M")"
   echo -e "+@fn=1;🧭+@fn=0; $dte2"
-}  
+}
 
 mem(){
   mem=`free | awk '/Mem/ {printf "%d MiB/%d MiB\n", $3 / 1024.0, $2 / 1024.0 }'`
@@ -41,7 +41,7 @@ echo -e "+@fn=1;$icon+@fn=0; $vol%"
 
 cpu(){
   cpu_freq=$(awk '{printf("%.2f GHz", $1/1000000)}' /sys/devices/system/cpu/cpu0/cpufreq/scaling_cur_freq)
- echo -e " R7 5800X $cpu_freq "
+ echo -e " R7 5700X $cpu_freq "
 
 }
 
@@ -70,7 +70,7 @@ while :; do
 
   #echo "+@fg=2; $(mpd) +@bg=0; | $(cpu)  | $(temp) |  $(mem)  | $(dte)  | $(vol)"
   echo "+@fg=2;+@fg=3;+@bg=2; $(temp) +@fg=1;+@fg=3;+@bg=1; $(cpu) +@fg=2;+@fg=3;+@bg=2; $(mem) +@fg=1;+@fg=3;+@bg=1; $(vol) +@fg=2;+@fg=3;+@bg=2; $(dte) +@fg=1;+@fg=3;+@bg=1; $(dte2)"
-  
-  sleep $SLEEP_SEC 
+
+  sleep $SLEEP_SEC
 done
 

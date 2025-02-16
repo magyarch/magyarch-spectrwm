@@ -20,7 +20,7 @@ Plug 'vifm/vifm.vim'
 Plug 'kovetskiy/sxhkd-vim'
 call plug#end()
 
-set bg=light
+set bg=dark
 set go=a
 set mouse=a
 set nohlsearch

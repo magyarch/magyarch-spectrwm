@@ -169,7 +169,7 @@ ex ()
 }
 
 
-neofetch
+fastfetch
 #cowsay "CSATLAKOZZ HOZZÁNK !" && cowsay "IRATKOZZ FEL !"
 
 command -v nvim >/dev/null && alias vim="nvim" vimdiff="nvim -d" # Use neovim for vim if present.

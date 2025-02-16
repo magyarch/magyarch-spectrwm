@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/xeoncpu/.local/bin/wallpapers/Future//current-wallpaper.jpg' 
